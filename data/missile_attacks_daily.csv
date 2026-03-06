@@ -1,0 +1,1379 @@
+time_start,time_end,model,launched,destroyed,not_reach_goal,still_attacking,target,launch_place
+2022-10-05 02:15,2022-10-05 04:15,Shahed-131,11,11,0,0,Odesa,Black Sea
+2022-10-06 03:02,2022-10-06 04:02,Shahed-136/Geran-2,19,16,1,2,Kharkiv,Kursk Oblast
+2022-10-07 01:45,2022-10-07 05:45,Shahed-136,14,13,0,1,Dnipro,Crimea
+2022-10-08 01:44,2022-10-08 05:44,Kh-101,3,3,0,0,Mykolaiv,Belgorod Oblast
+2022-10-09 00:05,2022-10-09 04:05,Kh-555,7,6,0,1,Kharkiv,Voronezh Oblast
+2022-10-09 02:38,2022-10-09 05:38,Shahed-136,16,14,0,2,Vinnytsia,Caspian Sea
+2022-10-09 03:34,2022-10-09 04:34,Kh-101,2,2,0,0,Rivne,Bryansk Oblast
+2022-10-10 02:36,2022-10-10 04:36,Iskander-K,5,5,0,0,Chernihiv,Black Sea
+2022-10-10 00:42,2022-10-10 02:42,Tornado-S,4,2,0,2,Vinnytsia,Belgorod Oblast
+2022-10-10 00:54,2022-10-10 02:54,Shahed-136,17,13,1,3,Zhytomyr,Black Sea
+2022-10-11 02:10,2022-10-11 05:10,Kh-47M2 Kinzhal,6,1,1,4,Mykolaiv,Kursk Oblast
+2022-10-11 02:44,2022-10-11 03:44,Shahed-136,19,19,0,0,Poltava,Krasnodar Krai
+2022-10-11 01:10,2022-10-11 05:10,Kh-101,2,1,0,1,Lviv,Belgorod Oblast
+2022-10-11 01:43,2022-10-11 04:43,Shahed-131,13,12,0,1,Zhytomyr,Caspian Sea
+2022-10-12 02:25,2022-10-12 05:25,Shahed-136,21,17,2,2,Kharkiv,Kursk Oblast
+2022-10-14 01:41,2022-10-14 05:41,Shahed-136,23,20,0,3,Lviv,Crimea
+2022-10-14 01:16,2022-10-14 03:16,Shahed-131,16,15,1,0,Dnipro,Belarus
+2022-10-14 02:47,2022-10-14 06:47,KN-25,6,3,2,1,Rivne,Bryansk Oblast
+2022-10-15 03:05,2022-10-15 04:05,Shahed-131,23,20,1,2,Zhytomyr,Black Sea
+2022-10-15 01:40,2022-10-15 03:40,Shahed-136,22,19,1,2,Vinnytsia,Bryansk Oblast
+2022-10-16 03:38,2022-10-16 07:38,Shahed-131,23,21,0,2,Donetsk,Belgorod Oblast
+2022-10-16 00:43,2022-10-16 01:43,Shahed-136,18,15,0,3,Sumy,Belarus
+2022-10-16 02:49,2022-10-16 05:49,Tornado-S,7,5,2,0,Kharkiv,Belgorod Oblast
+2022-10-16 03:10,2022-10-16 07:10,Kh-22,4,2,1,1,Kyiv,Belgorod Oblast
+2022-10-19 02:53,2022-10-19 04:53,Shahed-136/Geran-2,14,11,1,2,Odesa,Voronezh Oblast
+2022-10-21 02:31,2022-10-21 03:31,Tornado-S,9,3,1,5,Kharkiv,Voronezh Oblast
+2022-10-24 01:56,2022-10-24 02:56,Shahed-136,15,12,2,1,Kharkiv,Crimea
+2022-10-27 01:42,2022-10-27 05:42,Shahed-136,9,8,0,1,Donetsk,Krasnodar Krai
+2022-10-27 02:33,2022-10-27 06:33,Kh-101,4,2,0,2,Dnipro,Belarus
+2022-10-29 03:42,2022-10-29 06:42,Kh-101,3,1,2,0,Kherson,Belarus
+2022-10-29 03:07,2022-10-29 05:07,Kalibr,4,4,0,0,Dnipro,Black Sea
+2022-10-29 02:01,2022-10-29 04:01,Shahed-131,7,7,0,0,Poltava,Kursk Oblast
+2022-10-30 01:04,2022-10-30 02:04,Shahed-238,16,15,0,1,Zhytomyr,Voronezh Oblast
+2022-10-31 02:42,2022-10-31 06:42,Lancet-3,5,4,1,0,Dnipro,Belarus
+2022-10-31 01:46,2022-10-31 05:46,Shahed-136,22,20,1,1,Dnipro,Crimea
+2022-11-02 03:22,2022-11-02 07:22,Kh-22,3,2,0,1,Lviv,Crimea
+2022-11-04 00:25,2022-11-04 03:25,Shahed-136/Geran-2,12,12,0,0,Vinnytsia,Black Sea
+2022-11-05 03:08,2022-11-05 07:08,Iskander-M,3,2,0,1,Odesa,Belgorod Oblast
+2022-11-05 03:15,2022-11-05 04:15,Shahed-136,11,9,0,2,Kherson,Belarus
+2022-11-06 00:59,2022-11-06 02:59,KN-25,9,7,0,2,Odesa,Bryansk Oblast
+2022-11-07 03:57,2022-11-07 04:57,Shahed-136,15,13,1,1,Odesa,Bryansk Oblast
+2022-11-07 00:24,2022-11-07 03:24,KN-23,6,3,1,2,Rivne,Crimea
+2022-11-08 01:12,2022-11-08 04:12,Shahed-136,25,20,3,2,Dnipro,Caspian Sea
+2022-11-08 00:47,2022-11-08 03:47,Shahed-136/Geran-2,12,10,1,1,Kyiv,Caspian Sea
+2022-11-08 03:32,2022-11-08 05:32,Kalibr,5,5,0,0,Kyiv,Belarus
+2022-11-08 00:54,2022-11-08 02:54,Kh-101,6,4,0,2,Kharkiv,Black Sea
+2022-11-09 03:07,2022-11-09 05:07,Shahed-136,24,22,1,1,Poltava,Caspian Sea
+2022-11-09 00:26,2022-11-09 03:26,Kh-101,7,6,0,1,Rivne,Belgorod Oblast
+2022-11-10 01:16,2022-11-10 05:16,Kh-59,6,6,0,0,Odesa,Belgorod Oblast
+2022-11-10 03:20,2022-11-10 04:20,Kh-22,8,6,0,2,Kyiv,Crimea
+2022-11-10 00:04,2022-11-10 02:04,Shahed-136/Geran-2,17,13,1,3,Donetsk,Belgorod Oblast
+2022-11-11 00:56,2022-11-11 02:56,S-300,5,2,0,3,Mykolaiv,Belgorod Oblast
+2022-11-11 01:28,2022-11-11 04:28,Shahed-238,12,12,0,0,Poltava,Belarus
+2022-11-11 00:42,2022-11-11 03:42,Kh-101,6,6,0,0,Rivne,Black Sea
+2022-11-13 00:47,2022-11-13 02:47,Kh-59MK2,4,4,0,0,Zaporizhzhia,Belgorod Oblast
+2022-11-14 01:43,2022-11-14 04:43,Shahed-131,22,17,1,4,Donetsk,Crimea
+2022-11-14 02:57,2022-11-14 03:57,Iskander-K,7,6,0,1,Kharkiv,Bryansk Oblast
+2022-11-14 02:02,2022-11-14 03:02,Kh-69,4,3,1,0,Mykolaiv,Krasnodar Krai
+2022-11-15 01:47,2022-11-15 05:47,Kalibr,5,3,1,1,Donetsk,Bryansk Oblast
+2022-11-15 00:07,2022-11-15 01:07,Kh-101,2,1,1,0,Rivne,Krasnodar Krai
+2022-11-15 00:53,2022-11-15 03:53,Shahed-136,9,7,1,1,Poltava,Belarus
+2022-11-16 00:19,2022-11-16 03:19,Shahed-136/Geran-2,12,11,1,0,Rivne,Caspian Sea
+2022-11-16 02:13,2022-11-16 04:13,Shahed-131,25,20,3,2,Sumy,Black Sea
+2022-11-17 01:59,2022-11-17 03:59,Shahed-136,23,20,1,2,Zhytomyr,Krasnodar Krai
+2022-11-17 01:56,2022-11-17 05:56,Shahed-131,22,22,0,0,Kyiv,Krasnodar Krai
+2022-11-17 02:50,2022-11-17 06:50,Kh-101,1,0,0,1,Vinnytsia,Kursk Oblast
+2022-11-17 02:10,2022-11-17 03:10,Shahed-238,18,15,0,3,Lviv,Caspian Sea
+2022-11-19 02:19,2022-11-19 04:19,Kh-555,2,1,1,0,Dnipro,Caspian Sea
+2022-11-19 01:25,2022-11-19 04:25,Shahed-136,18,16,1,1,Zaporizhzhia,Black Sea
+2022-11-19 02:22,2022-11-19 06:22,Kh-101,5,4,0,1,Sumy,Belarus
+2022-11-19 02:01,2022-11-19 03:01,Kh-31P,3,3,0,0,Rivne,Belgorod Oblast
+2022-11-20 00:06,2022-11-20 04:06,Shahed-136,27,23,1,3,Mykolaiv,Voronezh Oblast
+2022-11-20 03:38,2022-11-20 04:38,Kh-101,9,7,0,2,Lviv,Kursk Oblast
+2022-11-20 02:02,2022-11-20 06:02,Kalibr,7,6,1,0,Kyiv,Belarus
+2022-11-22 02:27,2022-11-22 03:27,Shahed-136,16,16,0,0,Sumy,Voronezh Oblast
+2022-11-22 02:42,2022-11-22 03:42,Shahed-131,29,25,0,4,Chernihiv,Belgorod Oblast
+2022-11-23 02:25,2022-11-23 05:25,Shahed-131,26,23,2,1,Donetsk,Krasnodar Krai
+2022-11-23 01:26,2022-11-23 05:26,Kh-555,2,1,0,1,Sumy,Krasnodar Krai
+2022-11-23 02:25,2022-11-23 03:25,Kh-22,5,5,0,0,Zaporizhzhia,Belgorod Oblast
+2022-11-23 01:27,2022-11-23 04:27,Shahed-136,14,10,1,3,Kherson,Crimea
+2022-11-24 03:50,2022-11-24 05:50,Shahed-131,30,23,2,5,Sumy,Black Sea
+2022-11-24 02:32,2022-11-24 05:32,Kh-22,1,0,1,0,Kharkiv,Kursk Oblast
+2022-11-25 01:09,2022-11-25 02:09,Shahed-136,15,14,1,0,Kyiv,Kursk Oblast
+2022-11-25 03:39,2022-11-25 04:39,Shahed-131,19,19,0,0,Kherson,Bryansk Oblast
+2022-11-27 03:25,2022-11-27 05:25,Shahed-136,22,20,0,2,Odesa,Caspian Sea
+2022-11-27 00:49,2022-11-27 04:49,Kalibr,6,4,1,1,Dnipro,Krasnodar Krai
+2022-11-27 03:03,2022-11-27 05:03,Kh-555,4,3,1,0,Rivne,Black Sea
+2022-11-27 03:08,2022-11-27 07:08,KN-25,8,5,2,1,Sumy,Belarus
+2022-11-29 03:53,2022-11-29 07:53,Shahed-136/Geran-2,18,14,1,3,Rivne,Krasnodar Krai
+2022-11-29 03:28,2022-11-29 06:28,Shahed-131,23,18,1,4,Vinnytsia,Kursk Oblast
+2022-11-29 02:49,2022-11-29 06:49,Kh-59,4,2,2,0,Sumy,Kursk Oblast
+2022-11-29 02:28,2022-11-29 03:28,Shahed-136,14,12,1,1,Chernihiv,Belgorod Oblast
+2022-11-30 02:57,2022-11-30 03:57,Shahed-131,22,18,0,4,Odesa,Krasnodar Krai
+2022-11-30 01:24,2022-11-30 03:24,Shahed-136,22,19,0,3,Chernihiv,Kursk Oblast
+2022-11-30 00:26,2022-11-30 04:26,Orlan-10,1,1,0,0,Mykolaiv,Belarus
+2022-12-01 01:53,2022-12-01 05:53,Shahed-136,28,26,1,1,Lviv,Caspian Sea
+2022-12-04 02:19,2022-12-04 06:19,Kh-555,4,2,1,1,Zhytomyr,Bryansk Oblast
+2022-12-05 03:14,2022-12-05 06:14,Shahed-136,19,17,0,2,Lviv,Crimea
+2022-12-05 00:24,2022-12-05 03:24,Zala,3,2,0,1,Sumy,Bryansk Oblast
+2022-12-10 00:05,2022-12-10 04:05,Shahed-131,16,16,0,0,Odesa,Crimea
+2022-12-10 01:03,2022-12-10 04:03,Shahed-136/Geran-2,19,16,1,2,Lviv,Voronezh Oblast
+2022-12-10 01:29,2022-12-10 04:29,Shahed-136,13,9,1,3,Mykolaiv,Bryansk Oblast
+2022-12-10 02:48,2022-12-10 06:48,Shahed-238,22,20,2,0,Zaporizhzhia,Black Sea
+2022-12-11 02:14,2022-12-11 03:14,Shahed-136,15,10,0,5,Vinnytsia,Caspian Sea
+2022-12-14 01:15,2022-12-14 03:15,Shahed-136/Geran-2,19,18,0,1,Kherson,Black Sea
+2022-12-15 03:44,2022-12-15 06:44,Iskander-K,5,4,0,1,Vinnytsia,Voronezh Oblast
+2022-12-15 01:38,2022-12-15 02:38,Kh-101,9,7,1,1,Vinnytsia,Krasnodar Krai
+2022-12-17 02:36,2022-12-17 06:36,Shahed-136,13,12,1,0,Lviv,Kursk Oblast
+2022-12-18 00:44,2022-12-18 03:44,Shahed-136/Geran-2,9,9,0,0,Zhytomyr,Black Sea
+2022-12-18 00:22,2022-12-18 04:22,Shahed-131,22,20,1,1,Sumy,Voronezh Oblast
+2022-12-19 00:54,2022-12-19 04:54,Shahed-136,20,18,1,1,Zhytomyr,Crimea
+2022-12-19 00:27,2022-12-19 03:27,Iskander-K,8,6,0,2,Sumy,Crimea
+2022-12-19 01:27,2022-12-19 03:27,Lancet-3,2,1,1,0,Chernihiv,Belarus
+2022-12-21 03:27,2022-12-21 06:27,Shahed-136,28,26,1,1,Mykolaiv,Kursk Oblast
+2022-12-21 00:17,2022-12-21 04:17,Shahed-131,20,16,2,2,Dnipro,Crimea
+2022-12-21 03:21,2022-12-21 04:21,Tornado-S,7,4,1,2,Kherson,Voronezh Oblast
+2022-12-21 01:31,2022-12-21 03:31,Zala,4,3,1,0,Mykolaiv,Belgorod Oblast
+2022-12-22 00:33,2022-12-22 02:33,Supercam S350,4,3,1,0,Kharkiv,Kursk Oblast
+2022-12-22 03:31,2022-12-22 05:31,Forpost-R,4,2,0,2,Chernihiv,Crimea
+2022-12-22 03:28,2022-12-22 04:28,Kh-101,6,3,1,2,Kharkiv,Belgorod Oblast
+2022-12-23 02:42,2022-12-23 05:42,Shahed-136,8,8,0,0,Kherson,Belarus
+2022-12-23 02:27,2022-12-23 05:27,Iskander-M,7,4,1,2,Mykolaiv,Crimea
+2022-12-24 01:07,2022-12-24 03:07,Kh-101,4,4,0,0,Mykolaiv,Black Sea
+2022-12-24 01:12,2022-12-24 03:12,Shahed-136/Geran-2,23,19,1,3,Chernihiv,Crimea
+2022-12-24 02:46,2022-12-24 05:46,Shahed-131,12,12,0,0,Kharkiv,Kursk Oblast
+2022-12-25 01:19,2022-12-25 02:19,Shahed-136,22,20,1,1,Chernihiv,Belarus
+2022-12-25 01:17,2022-12-25 02:17,Kh-101,5,3,0,2,Kyiv,Belarus
+2022-12-25 02:44,2022-12-25 04:44,Shahed-131,4,3,1,0,Sumy,Crimea
+2022-12-26 02:30,2022-12-26 06:30,Kh-59MK2,1,1,0,0,Kherson,Voronezh Oblast
+2022-12-27 02:55,2022-12-27 06:55,Shahed-238,17,16,0,1,Kharkiv,Black Sea
+2022-12-28 00:09,2022-12-28 02:09,Shahed-136,20,19,0,1,Vinnytsia,Belgorod Oblast
+2022-12-29 00:35,2022-12-29 04:35,Shahed-136/Geran-2,12,10,0,2,Poltava,Kursk Oblast
+2022-12-29 03:28,2022-12-29 07:28,Shahed-131,14,13,0,1,Zaporizhzhia,Bryansk Oblast
+2022-12-30 00:48,2022-12-30 02:48,Shahed-136,13,12,0,1,Sumy,Kursk Oblast
+2022-12-31 01:15,2022-12-31 03:15,Shahed-131,29,28,1,0,Donetsk,Black Sea
+2023-01-01 03:44,2023-01-01 07:44,Kh-555,5,5,0,0,Zaporizhzhia,Caspian Sea
+2023-01-01 01:18,2023-01-01 04:18,Shahed-136,21,20,0,1,Chernihiv,Crimea
+2023-01-01 00:43,2023-01-01 02:43,Shahed-136/Geran-2,22,20,0,2,Rivne,Belgorod Oblast
+2023-01-01 01:27,2023-01-01 02:27,KN-23,1,0,1,0,Donetsk,Kursk Oblast
+2023-01-02 01:04,2023-01-02 02:04,Shahed-136,26,23,1,2,Odesa,Belgorod Oblast
+2023-01-02 02:28,2023-01-02 03:28,Kalibr,4,3,0,1,Kherson,Belgorod Oblast
+2023-01-02 03:17,2023-01-02 07:17,KN-25,5,3,0,2,Kherson,Black Sea
+2023-01-03 02:38,2023-01-03 05:38,Shahed-136,24,21,0,3,Kyiv,Black Sea
+2023-01-03 01:43,2023-01-03 02:43,Shahed-131,21,18,1,2,Vinnytsia,Belgorod Oblast
+2023-01-03 00:48,2023-01-03 02:48,KN-25,6,5,0,1,Kherson,Belarus
+2023-01-03 03:58,2023-01-03 06:58,Kh-59,8,7,0,1,Odesa,Bryansk Oblast
+2023-01-04 00:30,2023-01-04 03:30,Kh-101,4,4,0,0,Lviv,Voronezh Oblast
+2023-01-04 02:42,2023-01-04 03:42,Shahed-136,16,15,0,1,Zhytomyr,Krasnodar Krai
+2023-01-04 02:26,2023-01-04 06:26,Lancet-3,3,2,0,1,Zaporizhzhia,Bryansk Oblast
+2023-01-04 00:29,2023-01-04 01:29,Kh-555,3,2,0,1,Mykolaiv,Belgorod Oblast
+2023-01-05 00:42,2023-01-05 04:42,Shahed-107,19,18,0,1,Lviv,Caspian Sea
+2023-01-05 01:33,2023-01-05 04:33,Shahed-136,19,16,2,1,Poltava,Crimea
+2023-01-05 03:48,2023-01-05 04:48,Shahed-131,30,27,1,2,Dnipro,Belgorod Oblast
+2023-01-05 01:59,2023-01-05 04:59,Iskander-K,8,7,0,1,Kherson,Crimea
+2023-01-06 01:19,2023-01-06 02:19,Shahed-131,15,13,0,2,Donetsk,Bryansk Oblast
+2023-01-06 00:14,2023-01-06 01:14,Shahed-238,16,14,0,2,Kherson,Black Sea
+2023-01-07 03:59,2023-01-07 06:59,Shahed-238,17,16,0,1,Donetsk,Belgorod Oblast
+2023-01-07 03:53,2023-01-07 07:53,Kh-101,4,1,0,3,Kherson,Kursk Oblast
+2023-01-08 03:12,2023-01-08 05:12,Tornado-S,11,6,1,4,Zhytomyr,Black Sea
+2023-01-08 02:49,2023-01-08 06:49,Shahed-136,22,20,0,2,Mykolaiv,Belarus
+2023-01-09 02:46,2023-01-09 05:46,KN-25,9,3,1,5,Zhytomyr,Crimea
+2023-01-11 02:21,2023-01-11 06:21,Shahed-136,14,14,0,0,Kherson,Voronezh Oblast
+2023-01-11 01:44,2023-01-11 03:44,Kh-59,4,4,0,0,Poltava,Bryansk Oblast
+2023-01-11 01:54,2023-01-11 05:54,Kh-101,4,3,0,1,Kyiv,Voronezh Oblast
+2023-01-11 03:45,2023-01-11 07:45,Shahed-136/Geran-2,23,21,1,1,Lviv,Krasnodar Krai
+2023-01-12 01:32,2023-01-12 04:32,Shahed-131,16,14,0,2,Zhytomyr,Black Sea
+2023-01-14 00:46,2023-01-14 02:46,Shahed-136,22,17,2,3,Lviv,Krasnodar Krai
+2023-01-14 00:30,2023-01-14 03:30,Kh-59,1,1,0,0,Mykolaiv,Bryansk Oblast
+2023-01-14 00:54,2023-01-14 03:54,Shahed-238,9,9,0,0,Zhytomyr,Belarus
+2023-01-14 03:20,2023-01-14 07:20,Hwasong-11,7,4,1,2,Zhytomyr,Belarus
+2023-01-15 01:40,2023-01-15 04:40,Shahed-136/Geran-2,15,14,0,1,Dnipro,Black Sea
+2023-01-16 00:28,2023-01-16 02:28,Kh-59,5,5,0,0,Chernihiv,Belgorod Oblast
+2023-01-18 02:22,2023-01-18 05:22,Kh-31P,4,2,0,2,Lviv,Krasnodar Krai
+2023-01-19 01:10,2023-01-19 03:10,Shahed-136/Geran-2,22,21,0,1,Kharkiv,Bryansk Oblast
+2023-01-19 01:31,2023-01-19 03:31,Shahed-136,23,20,1,2,Dnipro,Crimea
+2023-01-19 02:29,2023-01-19 05:29,Shahed-131,23,20,0,3,Sumy,Caspian Sea
+2023-01-19 03:57,2023-01-19 06:57,Kh-55,2,1,0,1,Sumy,Belarus
+2023-01-20 02:37,2023-01-20 05:37,Shahed-131,14,12,1,1,Sumy,Bryansk Oblast
+2023-01-20 02:29,2023-01-20 05:29,Kh-59MK2,5,3,2,0,Dnipro,Bryansk Oblast
+2023-01-20 03:06,2023-01-20 05:06,Shahed-136,22,18,0,4,Lviv,Voronezh Oblast
+2023-01-20 02:44,2023-01-20 05:44,S-300,8,2,2,4,Kyiv,Bryansk Oblast
+2023-01-21 03:53,2023-01-21 06:53,KN-25,12,4,2,6,Vinnytsia,Kursk Oblast
+2023-01-22 01:40,2023-01-22 03:40,Shahed-136,18,15,1,2,Poltava,Belgorod Oblast
+2023-01-22 01:40,2023-01-22 02:40,Lancet-3,7,7,0,0,Rivne,Caspian Sea
+2023-01-22 02:50,2023-01-22 06:50,Shahed-136/Geran-2,11,10,1,0,Kyiv,Voronezh Oblast
+2023-01-24 02:47,2023-01-24 06:47,Shahed-136,8,8,0,0,Odesa,Kursk Oblast
+2023-01-24 01:50,2023-01-24 04:50,Kh-59,4,3,0,1,Donetsk,Belarus
+2023-01-24 02:53,2023-01-24 04:53,Kh-22,4,1,1,2,Zaporizhzhia,Crimea
+2023-01-26 00:29,2023-01-26 01:29,Kh-101,2,0,0,2,Odesa,Kursk Oblast
+2023-01-26 03:54,2023-01-26 06:54,Kh-555,6,5,0,1,Kharkiv,Bryansk Oblast
+2023-01-26 00:16,2023-01-26 01:16,Shahed-136,18,15,0,3,Kherson,Voronezh Oblast
+2023-01-27 03:52,2023-01-27 06:52,Kh-59,5,5,0,0,Kharkiv,Kursk Oblast
+2023-01-27 03:01,2023-01-27 06:01,Shahed-136,17,15,0,2,Rivne,Kursk Oblast
+2023-01-27 00:40,2023-01-27 04:40,Shahed-136/Geran-2,14,11,1,2,Rivne,Belgorod Oblast
+2023-01-28 01:02,2023-01-28 02:02,Kh-101,1,1,0,0,Zaporizhzhia,Crimea
+2023-01-29 01:24,2023-01-29 05:24,Shahed-136,10,7,1,2,Mykolaiv,Belarus
+2023-01-29 03:37,2023-01-29 05:37,Shahed-136/Geran-2,22,20,0,2,Rivne,Bryansk Oblast
+2023-01-30 03:17,2023-01-30 04:17,Shahed-136,10,10,0,0,Chernihiv,Voronezh Oblast
+2023-01-30 01:28,2023-01-30 05:28,Kalibr,3,2,0,1,Dnipro,Voronezh Oblast
+2023-01-30 00:43,2023-01-30 03:43,Kh-47M2 Kinzhal,5,1,1,3,Donetsk,Voronezh Oblast
+2023-01-30 00:25,2023-01-30 03:25,Shahed-238,22,18,1,3,Dnipro,Black Sea
+2023-02-02 00:03,2023-02-02 03:03,Iskander-M,5,2,2,1,Dnipro,Krasnodar Krai
+2023-02-02 01:04,2023-02-02 03:04,Shahed-136,19,17,1,1,Poltava,Kursk Oblast
+2023-02-04 00:17,2023-02-04 02:17,Smerch,4,3,0,1,Odesa,Belarus
+2023-02-04 02:51,2023-02-04 04:51,Shahed-136,8,7,0,1,Kharkiv,Caspian Sea
+2023-02-05 01:37,2023-02-05 04:37,Kh-101,6,3,1,2,Kyiv,Krasnodar Krai
+2023-02-05 02:03,2023-02-05 04:03,Shahed-131,23,19,1,3,Chernihiv,Bryansk Oblast
+2023-02-05 00:47,2023-02-05 01:47,Shahed-136,17,17,0,0,Kherson,Crimea
+2023-02-07 03:32,2023-02-07 05:32,Kh-101,2,2,0,0,Poltava,Caspian Sea
+2023-02-10 03:41,2023-02-10 04:41,Shahed-107,22,20,0,2,Kyiv,Crimea
+2023-02-10 03:27,2023-02-10 04:27,Kh-101,1,1,0,0,Kherson,Crimea
+2023-02-10 00:57,2023-02-10 01:57,Shahed-136,21,17,0,4,Mykolaiv,Krasnodar Krai
+2023-02-11 02:24,2023-02-11 05:24,Shahed-136,27,23,0,4,Kherson,Belarus
+2023-02-11 03:06,2023-02-11 04:06,Shahed-136/Geran-2,27,21,1,5,Zhytomyr,Belarus
+2023-02-11 01:27,2023-02-11 05:27,KN-25,9,7,0,2,Rivne,Kursk Oblast
+2023-02-12 03:26,2023-02-12 04:26,Kh-59,1,1,0,0,Mykolaiv,Bryansk Oblast
+2023-02-12 02:42,2023-02-12 05:42,Shahed-136,12,10,0,2,Mykolaiv,Krasnodar Krai
+2023-02-12 03:04,2023-02-12 04:04,Kh-555,7,5,2,0,Zhytomyr,Black Sea
+2023-02-12 00:27,2023-02-12 01:27,Kh-101,3,3,0,0,Chernihiv,Voronezh Oblast
+2023-02-14 00:26,2023-02-14 03:26,Kh-555,6,4,0,2,Zhytomyr,Bryansk Oblast
+2023-02-14 00:18,2023-02-14 03:18,Shahed-136,15,15,0,0,Mykolaiv,Black Sea
+2023-02-14 01:09,2023-02-14 05:09,Shahed-238,19,17,1,1,Dnipro,Black Sea
+2023-02-15 00:48,2023-02-15 03:48,Shahed-131,21,19,1,1,Poltava,Kursk Oblast
+2023-02-15 03:54,2023-02-15 04:54,Shahed-136,23,21,0,2,Poltava,Belgorod Oblast
+2023-02-15 00:11,2023-02-15 03:11,Smerch,7,5,1,1,Chernihiv,Belgorod Oblast
+2023-02-17 01:36,2023-02-17 05:36,Shahed-136/Geran-2,21,17,2,2,Kharkiv,Krasnodar Krai
+2023-02-17 00:05,2023-02-17 02:05,Kalibr,6,5,0,1,Lviv,Bryansk Oblast
+2023-02-18 02:19,2023-02-18 05:19,Shahed-136,20,15,0,5,Vinnytsia,Black Sea
+2023-02-18 00:09,2023-02-18 02:09,Lancet-3,5,5,0,0,Vinnytsia,Caspian Sea
+2023-02-19 03:42,2023-02-19 07:42,KN-23,5,2,2,1,Kherson,Crimea
+2023-02-19 03:17,2023-02-19 05:17,Shahed-136,24,19,1,4,Vinnytsia,Belarus
+2023-02-19 00:22,2023-02-19 04:22,Kalibr,4,2,0,2,Kharkiv,Belgorod Oblast
+2023-02-20 02:02,2023-02-20 04:02,Kh-555,4,4,0,0,Lviv,Caspian Sea
+2023-02-20 00:13,2023-02-20 03:13,Shahed-136,18,15,0,3,Dnipro,Krasnodar Krai
+2023-02-20 02:18,2023-02-20 05:18,Smerch,10,5,1,4,Kharkiv,Caspian Sea
+2023-02-20 03:47,2023-02-20 07:47,Kh-101,5,5,0,0,Odesa,Krasnodar Krai
+2023-02-21 02:04,2023-02-21 06:04,Shahed-136,22,18,4,0,Zhytomyr,Caspian Sea
+2023-02-21 03:01,2023-02-21 07:01,Shahed-136/Geran-2,18,16,1,1,Rivne,Black Sea
+2023-02-23 03:18,2023-02-23 04:18,Shahed-131,7,6,0,1,Lviv,Caspian Sea
+2023-02-23 02:10,2023-02-23 06:10,Shahed-238,7,7,0,0,Zhytomyr,Voronezh Oblast
+2023-02-23 00:27,2023-02-23 01:27,Kh-555,2,2,0,0,Dnipro,Bryansk Oblast
+2023-02-23 03:33,2023-02-23 04:33,Shahed-136/Geran-2,11,11,0,0,Lviv,Belgorod Oblast
+2023-02-25 00:32,2023-02-25 01:32,Shahed-131,23,17,2,4,Donetsk,Belarus
+2023-02-25 01:57,2023-02-25 04:57,Kalibr,4,3,0,1,Mykolaiv,Krasnodar Krai
+2023-02-26 02:12,2023-02-26 04:12,Zala,5,3,1,1,Poltava,Krasnodar Krai
+2023-02-26 00:11,2023-02-26 04:11,Shahed-136,20,19,0,1,Kherson,Crimea
+2023-02-27 02:09,2023-02-27 06:09,Shahed-136,26,22,0,4,Kharkiv,Crimea
+2023-02-27 03:40,2023-02-27 06:40,S-300,3,2,0,1,Vinnytsia,Belgorod Oblast
+2023-02-27 00:22,2023-02-27 01:22,Kh-101,5,4,0,1,Zaporizhzhia,Crimea
+2023-02-28 02:53,2023-02-28 05:53,Shahed-136,8,6,0,2,Kharkiv,Black Sea
+2023-03-01 03:37,2023-03-01 04:37,Shahed-136,21,20,0,1,Kherson,Kursk Oblast
+2023-03-01 02:38,2023-03-01 06:38,Shahed-136/Geran-2,30,27,0,3,Donetsk,Krasnodar Krai
+2023-03-01 00:28,2023-03-01 01:28,Kh-69,4,4,0,0,Vinnytsia,Voronezh Oblast
+2023-03-01 00:32,2023-03-01 02:32,Kh-55,8,6,0,2,Kyiv,Kursk Oblast
+2023-03-04 02:23,2023-03-04 05:23,Shahed-136/Geran-2,33,27,1,5,Lviv,Bryansk Oblast
+2023-03-04 02:43,2023-03-04 03:43,Shahed-238,14,12,1,1,Vinnytsia,Voronezh Oblast
+2023-03-05 03:18,2023-03-05 06:18,Shahed-136,19,16,2,1,Chernihiv,Krasnodar Krai
+2023-03-06 02:19,2023-03-06 06:19,Shahed-136/Geran-2,19,15,2,2,Odesa,Black Sea
+2023-03-06 02:35,2023-03-06 06:35,Kalibr,7,5,0,2,Sumy,Voronezh Oblast
+2023-03-08 03:32,2023-03-08 06:32,Shahed-136/Geran-2,27,21,0,6,Kyiv,Voronezh Oblast
+2023-03-09 02:49,2023-03-09 06:49,Smerch,11,8,2,1,Dnipro,Kursk Oblast
+2023-03-09 01:09,2023-03-09 02:09,Shahed-136,13,10,1,2,Zaporizhzhia,Black Sea
+2023-03-10 02:56,2023-03-10 04:56,Shahed-136,22,16,2,4,Poltava,Bryansk Oblast
+2023-03-11 01:46,2023-03-11 05:46,Shahed-136,9,8,1,0,Kyiv,Bryansk Oblast
+2023-03-11 02:43,2023-03-11 04:43,Kh-22,5,3,2,0,Kherson,Belgorod Oblast
+2023-03-14 02:51,2023-03-14 06:51,Shahed-136,15,11,0,4,Rivne,Kursk Oblast
+2023-03-14 02:43,2023-03-14 06:43,Kh-555,5,5,0,0,Kherson,Belgorod Oblast
+2023-03-16 01:52,2023-03-16 03:52,Kalibr,5,5,0,0,Vinnytsia,Krasnodar Krai
+2023-03-16 02:03,2023-03-16 06:03,Shahed-136,14,11,0,3,Zhytomyr,Voronezh Oblast
+2023-03-16 00:45,2023-03-16 01:45,Kh-101,5,5,0,0,Zaporizhzhia,Black Sea
+2023-03-16 01:17,2023-03-16 05:17,Tornado-S,12,6,2,4,Rivne,Belarus
+2023-03-17 00:58,2023-03-17 02:58,Shahed-136,17,14,1,2,Zhytomyr,Crimea
+2023-03-17 02:59,2023-03-17 03:59,Forpost-R,7,2,3,2,Lviv,Caspian Sea
+2023-03-17 03:32,2023-03-17 06:32,Shahed-131,25,23,0,2,Dnipro,Bryansk Oblast
+2023-03-17 00:23,2023-03-17 02:23,Kh-101,4,3,0,1,Kyiv,Voronezh Oblast
+2023-03-20 01:02,2023-03-20 04:02,Shahed-136,21,19,1,1,Rivne,Crimea
+2023-03-20 01:48,2023-03-20 05:48,Shahed-107,13,13,0,0,Kherson,Caspian Sea
+2023-03-22 01:35,2023-03-22 05:35,Shahed-131,13,12,1,0,Kharkiv,Belgorod Oblast
+2023-03-22 01:19,2023-03-22 02:19,Shahed-136/Geran-2,19,15,2,2,Kyiv,Kursk Oblast
+2023-03-23 00:07,2023-03-23 04:07,Shahed-136/Geran-2,16,16,0,0,Poltava,Belarus
+2023-03-23 00:40,2023-03-23 02:40,Kh-31P,7,5,0,2,Chernihiv,Krasnodar Krai
+2023-03-23 02:27,2023-03-23 03:27,Kh-555,5,5,0,0,Poltava,Voronezh Oblast
+2023-03-23 01:36,2023-03-23 05:36,Shahed-136,9,8,0,1,Odesa,Black Sea
+2023-03-24 00:33,2023-03-24 01:33,Kh-101,4,4,0,0,Lviv,Crimea
+2023-03-24 00:40,2023-03-24 04:40,Shahed-136,15,13,0,2,Mykolaiv,Belgorod Oblast
+2023-03-24 00:22,2023-03-24 01:22,Kh-55,1,1,0,0,Mykolaiv,Kursk Oblast
+2023-03-26 01:02,2023-03-26 04:02,S-300,4,4,0,0,Donetsk,Voronezh Oblast
+2023-03-26 01:53,2023-03-26 05:53,Shahed-136,15,13,1,1,Chernihiv,Crimea
+2023-03-26 01:51,2023-03-26 03:51,Shahed-238,21,21,0,0,Kharkiv,Crimea
+2023-03-27 00:50,2023-03-27 02:50,Kh-101,8,7,0,1,Rivne,Caspian Sea
+2023-03-27 02:59,2023-03-27 05:59,Shahed-136,16,15,0,1,Donetsk,Bryansk Oblast
+2023-03-29 00:48,2023-03-29 02:48,Kalibr,3,3,0,0,Zaporizhzhia,Voronezh Oblast
+2023-03-29 00:55,2023-03-29 03:55,Kh-55,7,7,0,0,Zaporizhzhia,Black Sea
+2023-03-29 02:27,2023-03-29 06:27,Shahed-136,23,22,0,1,Chernihiv,Crimea
+2023-03-31 03:44,2023-03-31 07:44,Kalibr,6,5,1,0,Mykolaiv,Belarus
+2023-03-31 02:51,2023-03-31 03:51,Shahed-136/Geran-2,21,20,1,0,Chernihiv,Bryansk Oblast
+2023-04-01 02:20,2023-04-01 03:20,Kh-101,9,7,1,1,Kharkiv,Voronezh Oblast
+2023-04-01 02:19,2023-04-01 06:19,Smerch,5,4,0,1,Poltava,Bryansk Oblast
+2023-04-02 02:28,2023-04-02 03:28,Shahed-136,21,18,1,2,Chernihiv,Voronezh Oblast
+2023-04-02 03:17,2023-04-02 04:17,Shahed-136/Geran-2,14,12,1,1,Kharkiv,Bryansk Oblast
+2023-04-02 02:32,2023-04-02 04:32,Lancet-3,5,5,0,0,Kyiv,Krasnodar Krai
+2023-04-02 03:02,2023-04-02 05:02,Kh-101,5,5,0,0,Kharkiv,Kursk Oblast
+2023-04-04 00:38,2023-04-04 02:38,Shahed-136,15,14,0,1,Sumy,Crimea
+2023-04-04 02:23,2023-04-04 06:23,Shahed-131,27,19,0,8,Vinnytsia,Black Sea
+2023-04-04 01:33,2023-04-04 04:33,Shahed-136/Geran-2,19,17,1,1,Lviv,Voronezh Oblast
+2023-04-04 02:15,2023-04-04 03:15,Kalibr,7,6,1,0,Kyiv,Krasnodar Krai
+2023-04-05 00:16,2023-04-05 03:16,Shahed-136/Geran-2,26,22,0,4,Chernihiv,Crimea
+2023-04-05 01:39,2023-04-05 04:39,Shahed-131,26,22,2,2,Chernihiv,Crimea
+2023-04-05 01:07,2023-04-05 03:07,Shahed-136,14,10,0,4,Zhytomyr,Black Sea
+2023-04-05 03:11,2023-04-05 07:11,Kh-555,3,2,0,1,Kharkiv,Voronezh Oblast
+2023-04-06 02:57,2023-04-06 05:57,Shahed-136,17,15,0,2,Zhytomyr,Krasnodar Krai
+2023-04-09 01:07,2023-04-09 03:07,Kh-555,7,3,1,3,Vinnytsia,Krasnodar Krai
+2023-04-09 01:50,2023-04-09 05:50,Shahed-136,10,8,0,2,Kyiv,Voronezh Oblast
+2023-04-09 02:29,2023-04-09 04:29,Shahed-131,24,18,2,4,Poltava,Black Sea
+2023-04-10 03:33,2023-04-10 07:33,Shahed-136,8,7,1,0,Vinnytsia,Bryansk Oblast
+2023-04-10 00:08,2023-04-10 03:08,Kh-101,4,4,0,0,Sumy,Black Sea
+2023-04-10 03:29,2023-04-10 06:29,Kh-555,4,2,1,1,Odesa,Belarus
+2023-04-10 01:49,2023-04-10 03:49,Shahed-136/Geran-2,30,26,2,2,Lviv,Belarus
+2023-04-12 01:19,2023-04-12 03:19,Shahed-136,16,16,0,0,Odesa,Voronezh Oblast
+2023-04-14 00:16,2023-04-14 02:16,KN-25,6,1,1,4,Sumy,Belarus
+2023-04-14 02:08,2023-04-14 05:08,Shahed-136,14,13,1,0,Poltava,Belarus
+2023-04-14 00:32,2023-04-14 02:32,Kh-22,5,1,0,4,Poltava,Krasnodar Krai
+2023-04-15 00:52,2023-04-15 01:52,Kh-59MK2,6,5,0,1,Kharkiv,Caspian Sea
+2023-04-15 02:41,2023-04-15 04:41,Kh-22,1,1,0,0,Vinnytsia,Bryansk Oblast
+2023-04-15 00:31,2023-04-15 03:31,Shahed-136/Geran-2,24,22,1,1,Sumy,Belgorod Oblast
+2023-04-16 02:29,2023-04-16 03:29,Iskander-K,2,1,0,1,Chernihiv,Caspian Sea
+2023-04-16 01:28,2023-04-16 05:28,Shahed-136,23,17,2,4,Kherson,Crimea
+2023-04-16 01:21,2023-04-16 03:21,Iskander-M,5,2,1,2,Mykolaiv,Voronezh Oblast
+2023-04-16 02:25,2023-04-16 04:25,Shahed-131,19,19,0,0,Vinnytsia,Voronezh Oblast
+2023-04-17 02:15,2023-04-17 06:15,Kalibr,7,5,0,2,Kharkiv,Belgorod Oblast
+2023-04-18 00:03,2023-04-18 03:03,Kh-47M2 Kinzhal,3,2,1,0,Lviv,Bryansk Oblast
+2023-04-18 01:55,2023-04-18 03:55,Shahed-131,19,19,0,0,Zhytomyr,Voronezh Oblast
+2023-04-21 03:32,2023-04-21 07:32,Shahed-131,20,17,2,1,Kherson,Belgorod Oblast
+2023-04-21 03:01,2023-04-21 04:01,Shahed-136/Geran-2,26,23,0,3,Lviv,Belarus
+2023-04-22 01:37,2023-04-22 04:37,Iskander-M,6,3,2,1,Kyiv,Caspian Sea
+2023-04-22 02:31,2023-04-22 06:31,Tornado-S,9,7,1,1,Zaporizhzhia,Belarus
+2023-04-23 03:08,2023-04-23 06:08,Shahed-136,11,10,0,1,Chernihiv,Voronezh Oblast
+2023-04-25 00:36,2023-04-25 02:36,Shahed-131,9,8,0,1,Mykolaiv,Belarus
+2023-04-25 02:04,2023-04-25 06:04,Shahed-136,13,12,1,0,Donetsk,Crimea
+2023-04-25 02:52,2023-04-25 03:52,Kh-555,9,7,0,2,Odesa,Black Sea
+2023-04-25 03:23,2023-04-25 06:23,Kh-101,2,2,0,0,Donetsk,Voronezh Oblast
+2023-04-27 00:02,2023-04-27 01:02,Kh-555,1,0,0,1,Odesa,Voronezh Oblast
+2023-04-27 03:33,2023-04-27 07:33,Kh-31P,6,5,1,0,Odesa,Belarus
+2023-04-27 01:20,2023-04-27 04:20,Tornado-S,8,7,1,0,Odesa,Bryansk Oblast
+2023-04-27 02:37,2023-04-27 05:37,Kalibr,3,2,0,1,Donetsk,Belarus
+2023-04-28 03:52,2023-04-28 04:52,Shahed-136,16,15,0,1,Mykolaiv,Voronezh Oblast
+2023-04-28 00:26,2023-04-28 03:26,Kh-55,3,3,0,0,Vinnytsia,Caspian Sea
+2023-04-28 03:16,2023-04-28 05:16,Kalibr,6,6,0,0,Chernihiv,Caspian Sea
+2023-04-29 03:09,2023-04-29 05:09,Shahed-136,14,12,0,2,Kyiv,Black Sea
+2023-04-29 01:01,2023-04-29 05:01,Kh-101,5,2,1,2,Mykolaiv,Bryansk Oblast
+2023-04-30 03:32,2023-04-30 07:32,Kh-55,5,2,1,2,Zhytomyr,Caspian Sea
+2023-04-30 01:33,2023-04-30 03:33,Kh-101,4,2,1,1,Donetsk,Voronezh Oblast
+2023-05-02 02:11,2023-05-02 06:11,Shahed-136,16,15,1,0,Rivne,Belarus
+2023-05-02 02:34,2023-05-02 05:34,Kh-555,6,5,1,0,Sumy,Belgorod Oblast
+2023-05-02 03:12,2023-05-02 05:12,Shahed-131,28,27,0,1,Zaporizhzhia,Belarus
+2023-05-02 02:14,2023-05-02 05:14,KN-23,3,1,1,1,Vinnytsia,Belgorod Oblast
+2023-05-04 02:30,2023-05-04 05:30,Shahed-136,18,15,1,2,Donetsk,Belgorod Oblast
+2023-05-04 02:07,2023-05-04 06:07,Kh-59,4,4,0,0,Rivne,Bryansk Oblast
+2023-05-04 02:49,2023-05-04 04:49,Shahed-136/Geran-2,17,11,1,5,Zaporizhzhia,Caspian Sea
+2023-05-04 02:45,2023-05-04 03:45,Shahed-131,33,28,1,4,Mykolaiv,Crimea
+2023-05-05 01:12,2023-05-05 04:12,Shahed-131,19,16,0,3,Rivne,Belarus
+2023-05-05 02:08,2023-05-05 03:08,Kalibr,3,3,0,0,Poltava,Kursk Oblast
+2023-05-05 01:03,2023-05-05 03:03,Zala,2,1,0,1,Sumy,Kursk Oblast
+2023-05-05 00:06,2023-05-05 04:06,Shahed-136,13,11,0,2,Mykolaiv,Crimea
+2023-05-06 00:35,2023-05-06 02:35,Kh-55,7,5,1,1,Lviv,Crimea
+2023-05-06 03:41,2023-05-06 05:41,Shahed-136,18,16,0,2,Vinnytsia,Belgorod Oblast
+2023-05-07 00:41,2023-05-07 02:41,Iskander-M,8,4,0,4,Donetsk,Caspian Sea
+2023-05-09 00:53,2023-05-09 04:53,Kh-101,5,5,0,0,Vinnytsia,Crimea
+2023-05-09 01:59,2023-05-09 04:59,Kh-69,5,5,0,0,Rivne,Caspian Sea
+2023-05-10 02:18,2023-05-10 06:18,Kh-31P,2,2,0,0,Sumy,Belarus
+2023-05-11 03:17,2023-05-11 05:17,S-300,3,0,3,0,Vinnytsia,Black Sea
+2023-05-11 02:10,2023-05-11 06:10,KN-23,2,2,0,0,Sumy,Belgorod Oblast
+2023-05-13 02:36,2023-05-13 04:36,Shahed-136/Geran-2,19,18,1,0,Odesa,Bryansk Oblast
+2023-05-13 03:32,2023-05-13 06:32,Kh-101,4,2,1,1,Kharkiv,Bryansk Oblast
+2023-05-13 00:11,2023-05-13 02:11,Kh-555,3,3,0,0,Kherson,Voronezh Oblast
+2023-05-15 01:28,2023-05-15 04:28,Kh-101,2,2,0,0,Mykolaiv,Belgorod Oblast
+2023-05-15 00:16,2023-05-15 03:16,Shahed-136,19,15,0,4,Chernihiv,Kursk Oblast
+2023-05-15 00:42,2023-05-15 01:42,Shahed-131,17,13,0,4,Kherson,Belgorod Oblast
+2023-05-15 01:25,2023-05-15 04:25,Smerch,6,2,2,2,Chernihiv,Black Sea
+2023-05-16 02:39,2023-05-16 04:39,Kh-55,7,7,0,0,Dnipro,Krasnodar Krai
+2023-05-16 03:09,2023-05-16 07:09,S-300,6,2,3,1,Chernihiv,Voronezh Oblast
+2023-05-16 03:44,2023-05-16 07:44,Shahed-136,12,10,1,1,Vinnytsia,Belarus
+2023-05-20 03:33,2023-05-20 06:33,Shahed-136,32,27,1,4,Kharkiv,Black Sea
+2023-05-21 01:10,2023-05-21 04:10,Shahed-238,16,15,0,1,Zhytomyr,Belarus
+2023-05-21 03:07,2023-05-21 05:07,Shahed-131,21,19,0,2,Chernihiv,Crimea
+2023-05-22 00:29,2023-05-22 02:29,Shahed-238,18,17,0,1,Donetsk,Bryansk Oblast
+2023-05-22 03:36,2023-05-22 04:36,Shahed-131,12,12,0,0,Donetsk,Crimea
+2023-05-22 02:46,2023-05-22 03:46,Shahed-136,20,18,0,2,Lviv,Belgorod Oblast
+2023-05-22 00:47,2023-05-22 02:47,Kh-22,3,3,0,0,Poltava,Black Sea
+2023-05-23 00:34,2023-05-23 01:34,Shahed-136,15,9,3,3,Rivne,Black Sea
+2023-05-23 03:02,2023-05-23 06:02,Kalibr,1,1,0,0,Lviv,Krasnodar Krai
+2023-05-23 01:49,2023-05-23 05:49,Kh-47M2 Kinzhal,6,3,0,3,Mykolaiv,Bryansk Oblast
+2023-05-24 03:05,2023-05-24 05:05,Shahed-136/Geran-2,21,17,0,4,Sumy,Voronezh Oblast
+2023-05-24 00:11,2023-05-24 04:11,Shahed-131,22,20,0,2,Donetsk,Krasnodar Krai
+2023-05-24 01:53,2023-05-24 02:53,Shahed-136,14,12,0,2,Vinnytsia,Caspian Sea
+2023-05-24 02:29,2023-05-24 06:29,Kh-47M2 Kinzhal,5,0,1,4,Donetsk,Bryansk Oblast
+2023-05-26 01:17,2023-05-26 03:17,Mohajer-6,3,1,0,2,Rivne,Black Sea
+2023-05-26 00:51,2023-05-26 04:51,Kh-55,4,2,0,2,Poltava,Caspian Sea
+2023-05-26 01:13,2023-05-26 02:13,Kh-69,2,2,0,0,Kharkiv,Caspian Sea
+2023-05-27 01:47,2023-05-27 02:47,Shahed-131,17,15,0,2,Lviv,Crimea
+2023-05-28 00:08,2023-05-28 03:08,Shahed-131,13,11,0,2,Dnipro,Voronezh Oblast
+2023-05-28 02:15,2023-05-28 05:15,S-300,7,2,3,2,Rivne,Krasnodar Krai
+2023-05-30 02:17,2023-05-30 03:17,Shahed-136,22,19,1,2,Donetsk,Krasnodar Krai
+2023-05-30 03:35,2023-05-30 07:35,Shahed-136/Geran-2,19,19,0,0,Kyiv,Voronezh Oblast
+2023-05-30 03:50,2023-05-30 06:50,Shahed-131,20,17,1,2,Chernihiv,Bryansk Oblast
+2023-05-30 03:09,2023-05-30 06:09,Kh-22,3,3,0,0,Lviv,Krasnodar Krai
+2023-06-01 02:54,2023-06-01 04:54,Kalibr,2,2,0,0,Vinnytsia,Crimea
+2023-06-01 00:35,2023-06-01 04:35,Shahed-136,12,10,0,2,Lviv,Belarus
+2023-06-02 01:16,2023-06-02 03:16,Shahed-136,21,19,0,2,Mykolaiv,Black Sea
+2023-06-02 03:54,2023-06-02 06:54,Kh-47M2 Kinzhal,7,2,2,3,Kharkiv,Belarus
+2023-06-02 01:03,2023-06-02 04:03,Kh-31P,6,4,0,2,Lviv,Caspian Sea
+2023-06-02 00:12,2023-06-02 02:12,Kh-101,7,3,2,2,Kherson,Kursk Oblast
+2023-06-04 01:59,2023-06-04 03:59,Shahed-136,18,15,1,2,Chernihiv,Black Sea
+2023-06-08 03:58,2023-06-08 05:58,Tornado-S,8,6,0,2,Donetsk,Voronezh Oblast
+2023-06-08 02:24,2023-06-08 06:24,Kh-47M2 Kinzhal,2,1,0,1,Donetsk,Voronezh Oblast
+2023-06-09 03:29,2023-06-09 04:29,Hwasong-11,1,1,0,0,Vinnytsia,Crimea
+2023-06-09 02:58,2023-06-09 04:58,Shahed-136,23,18,3,2,Mykolaiv,Voronezh Oblast
+2023-06-09 03:02,2023-06-09 05:02,Shahed-238,14,10,1,3,Chernihiv,Krasnodar Krai
+2023-06-10 02:09,2023-06-10 04:09,Kh-59,6,6,0,0,Mykolaiv,Kursk Oblast
+2023-06-10 03:36,2023-06-10 05:36,Shahed-131,25,18,4,3,Kherson,Belarus
+2023-06-10 02:16,2023-06-10 06:16,Shahed-136/Geran-2,20,16,0,4,Chernihiv,Crimea
+2023-06-10 03:10,2023-06-10 06:10,Kalibr,3,2,1,0,Odesa,Krasnodar Krai
+2023-06-12 00:53,2023-06-12 01:53,Kalibr,9,7,0,2,Zhytomyr,Caspian Sea
+2023-06-14 00:45,2023-06-14 02:45,Kh-101,7,4,1,2,Kyiv,Kursk Oblast
+2023-06-14 03:23,2023-06-14 04:23,Kalibr,3,2,0,1,Poltava,Crimea
+2023-06-15 00:34,2023-06-15 04:34,Shahed-136,20,17,3,0,Kyiv,Caspian Sea
+2023-06-16 02:01,2023-06-16 06:01,Shahed-136,19,16,1,2,Vinnytsia,Krasnodar Krai
+2023-06-16 00:58,2023-06-16 01:58,Shahed-131,9,9,0,0,Donetsk,Krasnodar Krai
+2023-06-16 01:12,2023-06-16 04:12,Kh-55,5,5,0,0,Zhytomyr,Voronezh Oblast
+2023-06-17 00:23,2023-06-17 04:23,Shahed-136,26,23,0,3,Kherson,Kursk Oblast
+2023-06-17 01:19,2023-06-17 02:19,Kh-59,6,2,1,3,Sumy,Caspian Sea
+2023-06-17 00:25,2023-06-17 04:25,Kh-69,4,3,1,0,Lviv,Belarus
+2023-06-17 03:03,2023-06-17 04:03,Kh-101,5,4,0,1,Chernihiv,Krasnodar Krai
+2023-06-18 02:36,2023-06-18 03:36,Kalibr,6,6,0,0,Rivne,Belarus
+2023-06-18 00:14,2023-06-18 02:14,Shahed-136,31,30,0,1,Rivne,Crimea
+2023-06-18 02:02,2023-06-18 03:02,Kh-555,4,3,0,1,Sumy,Belgorod Oblast
+2023-06-18 00:11,2023-06-18 03:11,Shahed-136/Geran-2,27,22,1,4,Kyiv,Kursk Oblast
+2023-06-19 00:19,2023-06-19 02:19,Smerch,10,4,2,4,Poltava,Kursk Oblast
+2023-06-19 03:43,2023-06-19 06:43,Shahed-238,18,16,0,2,Lviv,Krasnodar Krai
+2023-06-19 00:32,2023-06-19 03:32,Shahed-136,26,23,1,2,Kyiv,Black Sea
+2023-06-19 03:14,2023-06-19 04:14,Kh-101,4,3,1,0,Mykolaiv,Bryansk Oblast
+2023-06-21 03:31,2023-06-21 05:31,Supercam S350,4,2,1,1,Mykolaiv,Belarus
+2023-06-21 03:27,2023-06-21 05:27,KN-25,6,4,1,1,Sumy,Bryansk Oblast
+2023-06-21 00:49,2023-06-21 03:49,Kh-22,5,3,1,1,Vinnytsia,Kursk Oblast
+2023-06-23 03:45,2023-06-23 05:45,Kh-101,2,2,0,0,Chernihiv,Bryansk Oblast
+2023-06-23 02:23,2023-06-23 03:23,Shahed-136,10,8,0,2,Kharkiv,Caspian Sea
+2023-06-25 00:08,2023-06-25 01:08,Kh-101,4,2,1,1,Odesa,Bryansk Oblast
+2023-06-25 03:35,2023-06-25 07:35,Shahed-136,8,8,0,0,Kharkiv,Caspian Sea
+2023-06-25 00:22,2023-06-25 01:22,Hwasong-11,2,0,0,2,Poltava,Voronezh Oblast
+2023-06-27 03:49,2023-06-27 04:49,Kalibr,1,1,0,0,Chernihiv,Belarus
+2023-06-27 01:36,2023-06-27 03:36,Shahed-238,20,17,2,1,Sumy,Bryansk Oblast
+2023-06-27 01:08,2023-06-27 04:08,Shahed-131,14,14,0,0,Zaporizhzhia,Belgorod Oblast
+2023-06-27 03:09,2023-06-27 04:09,Tornado-S,5,4,1,0,Odesa,Bryansk Oblast
+2023-06-28 03:50,2023-06-28 04:50,Shahed-136,12,10,0,2,Mykolaiv,Belgorod Oblast
+2023-06-28 01:46,2023-06-28 05:46,Kh-31P,3,3,0,0,Poltava,Kursk Oblast
+2023-06-28 03:06,2023-06-28 05:06,Kh-22,4,3,0,1,Zaporizhzhia,Caspian Sea
+2023-06-30 02:28,2023-06-30 05:28,Shahed-131,18,13,0,5,Lviv,Krasnodar Krai
+2023-06-30 02:20,2023-06-30 04:20,Shahed-136,21,19,0,2,Kherson,Voronezh Oblast
+2023-06-30 01:25,2023-06-30 04:25,Shahed-136/Geran-2,22,21,0,1,Zaporizhzhia,Crimea
+2023-06-30 01:20,2023-06-30 05:20,Kh-35,2,1,1,0,Zaporizhzhia,Bryansk Oblast
+2023-07-01 01:43,2023-07-01 02:43,Kh-555,3,2,0,1,Chernihiv,Crimea
+2023-07-01 01:28,2023-07-01 04:28,Shahed-136,13,11,0,2,Zhytomyr,Black Sea
+2023-07-04 01:40,2023-07-04 04:40,Shahed-136/Geran-2,17,15,0,2,Dnipro,Belgorod Oblast
+2023-07-04 01:45,2023-07-04 05:45,Kalibr,3,1,1,1,Vinnytsia,Bryansk Oblast
+2023-07-04 00:28,2023-07-04 04:28,Shahed-136,15,13,1,1,Poltava,Bryansk Oblast
+2023-07-04 03:34,2023-07-04 04:34,Kh-22,9,5,0,4,Vinnytsia,Voronezh Oblast
+2023-07-07 00:49,2023-07-07 02:49,Kh-101,4,4,0,0,Sumy,Voronezh Oblast
+2023-07-08 03:48,2023-07-08 06:48,Shahed-136,26,24,0,2,Vinnytsia,Bryansk Oblast
+2023-07-09 02:14,2023-07-09 04:14,Shahed-136,18,17,1,0,Kherson,Voronezh Oblast
+2023-07-10 02:01,2023-07-10 06:01,Shahed-136/Geran-2,27,24,3,0,Kharkiv,Belgorod Oblast
+2023-07-10 03:58,2023-07-10 04:58,Shahed-136,17,13,1,3,Kharkiv,Krasnodar Krai
+2023-07-11 03:50,2023-07-11 05:50,Shahed-238,13,10,1,2,Donetsk,Crimea
+2023-07-11 02:30,2023-07-11 03:30,Shahed-136,18,17,1,0,Kherson,Crimea
+2023-07-11 02:04,2023-07-11 05:04,Kh-47M2 Kinzhal,2,1,0,1,Kyiv,Black Sea
+2023-07-12 00:43,2023-07-12 02:43,Kh-55,2,1,1,0,Rivne,Kursk Oblast
+2023-07-12 01:35,2023-07-12 03:35,Shahed-131,18,16,1,1,Mykolaiv,Belarus
+2023-07-12 03:29,2023-07-12 05:29,KN-23,4,4,0,0,Vinnytsia,Bryansk Oblast
+2023-07-13 03:25,2023-07-13 04:25,Shahed-136,20,17,0,3,Chernihiv,Kursk Oblast
+2023-07-13 03:37,2023-07-13 07:37,KN-25,14,10,2,2,Lviv,Caspian Sea
+2023-07-15 00:51,2023-07-15 02:51,Kh-55,2,2,0,0,Mykolaiv,Voronezh Oblast
+2023-07-16 02:42,2023-07-16 06:42,Shahed-131,11,8,1,2,Donetsk,Voronezh Oblast
+2023-07-17 00:22,2023-07-17 03:22,Shahed-136,20,19,1,0,Zhytomyr,Crimea
+2023-07-17 01:52,2023-07-17 04:52,Kh-101,5,3,1,1,Rivne,Black Sea
+2023-07-17 01:20,2023-07-17 02:20,Shahed-136/Geran-2,16,13,0,3,Dnipro,Belgorod Oblast
+2023-07-17 00:11,2023-07-17 03:11,KN-25,11,6,1,4,Chernihiv,Krasnodar Krai
+2023-07-18 01:36,2023-07-18 05:36,Shahed-238,17,14,0,3,Lviv,Krasnodar Krai
+2023-07-18 03:40,2023-07-18 05:40,Orlan-10,3,1,0,2,Donetsk,Krasnodar Krai
+2023-07-18 03:18,2023-07-18 05:18,Shahed-136,15,12,1,2,Odesa,Voronezh Oblast
+2023-07-18 03:39,2023-07-18 04:39,Smerch,3,1,0,2,Zhytomyr,Voronezh Oblast
+2023-07-20 03:35,2023-07-20 07:35,Mohajer-6,7,2,2,3,Lviv,Crimea
+2023-07-20 03:45,2023-07-20 07:45,Kh-22,7,6,0,1,Kherson,Krasnodar Krai
+2023-07-21 01:18,2023-07-21 02:18,Shahed-136/Geran-2,11,10,1,0,Zaporizhzhia,Kursk Oblast
+2023-07-22 03:36,2023-07-22 07:36,Shahed-136,18,16,0,2,Donetsk,Belarus
+2023-07-22 00:36,2023-07-22 01:36,Kh-22,8,7,0,1,Zaporizhzhia,Belarus
+2023-07-24 03:34,2023-07-24 05:34,Kh-47M2 Kinzhal,6,4,0,2,Lviv,Black Sea
+2023-07-26 02:55,2023-07-26 03:55,Shahed-136/Geran-2,22,19,0,3,Kherson,Belgorod Oblast
+2023-07-26 02:55,2023-07-26 03:55,Iskander-M,1,1,0,0,Kherson,Black Sea
+2023-07-28 03:10,2023-07-28 05:10,Shahed-131,4,4,0,0,Vinnytsia,Kursk Oblast
+2023-07-28 01:51,2023-07-28 02:51,Mohajer-6,5,2,2,1,Poltava,Voronezh Oblast
+2023-07-28 02:38,2023-07-28 04:38,Shahed-136,19,17,2,0,Mykolaiv,Belgorod Oblast
+2023-07-29 00:08,2023-07-29 04:08,Kh-59,6,5,1,0,Rivne,Caspian Sea
+2023-07-29 02:55,2023-07-29 04:55,Kh-55,3,3,0,0,Chernihiv,Krasnodar Krai
+2023-07-29 01:09,2023-07-29 04:09,Shahed-136,12,11,0,1,Zhytomyr,Kursk Oblast
+2023-07-31 01:36,2023-07-31 04:36,Shahed-131,18,15,0,3,Sumy,Bryansk Oblast
+2023-07-31 03:28,2023-07-31 04:28,Shahed-136,23,18,1,4,Sumy,Black Sea
+2023-07-31 03:32,2023-07-31 06:32,Kh-555,8,8,0,0,Chernihiv,Voronezh Oblast
+2023-07-31 03:31,2023-07-31 06:31,Iskander-M,5,1,2,2,Poltava,Caspian Sea
+2023-08-03 02:54,2023-08-03 03:54,Kh-555,7,4,2,1,Vinnytsia,Belarus
+2023-08-03 03:13,2023-08-03 07:13,Shahed-136,21,19,0,2,Zhytomyr,Kursk Oblast
+2023-08-03 03:17,2023-08-03 06:17,Shahed-136/Geran-2,34,30,2,2,Zhytomyr,Belgorod Oblast
+2023-08-03 02:35,2023-08-03 04:35,Kh-59,6,5,0,1,Poltava,Crimea
+2023-08-07 00:07,2023-08-07 02:07,Kh-555,5,4,0,1,Kherson,Crimea
+2023-08-07 00:27,2023-08-07 02:27,Kh-101,4,3,1,0,Chernihiv,Krasnodar Krai
+2023-08-07 02:10,2023-08-07 05:10,Kalibr,1,1,0,0,Kharkiv,Voronezh Oblast
+2023-08-07 02:05,2023-08-07 05:05,Shahed-136,31,30,0,1,Sumy,Krasnodar Krai
+2023-08-08 01:27,2023-08-08 02:27,Shahed-131,18,17,1,0,Chernihiv,Black Sea
+2023-08-08 00:13,2023-08-08 04:13,Shahed-136,16,15,0,1,Kharkiv,Krasnodar Krai
+2023-08-08 01:33,2023-08-08 05:33,Kh-101,1,1,0,0,Kyiv,Caspian Sea
+2023-08-09 03:44,2023-08-09 05:44,Kh-101,4,2,1,1,Kherson,Black Sea
+2023-08-10 00:06,2023-08-10 03:06,Kh-101,3,3,0,0,Mykolaiv,Belgorod Oblast
+2023-08-11 01:04,2023-08-11 02:04,Shahed-131,12,11,0,1,Poltava,Krasnodar Krai
+2023-08-11 03:22,2023-08-11 05:22,Shahed-136,19,15,1,3,Sumy,Krasnodar Krai
+2023-08-13 01:05,2023-08-13 02:05,Kalibr,1,0,1,0,Odesa,Black Sea
+2023-08-13 03:22,2023-08-13 07:22,Zala,1,1,0,0,Mykolaiv,Krasnodar Krai
+2023-08-13 01:17,2023-08-13 02:17,Shahed-136,15,14,0,1,Dnipro,Belarus
+2023-08-13 02:49,2023-08-13 03:49,Kh-101,5,4,0,1,Zhytomyr,Belgorod Oblast
+2023-08-14 03:18,2023-08-14 04:18,Shahed-136,5,5,0,0,Vinnytsia,Kursk Oblast
+2023-08-14 03:24,2023-08-14 04:24,Shahed-131,13,11,0,2,Dnipro,Crimea
+2023-08-15 00:23,2023-08-15 03:23,Shahed-136,21,18,1,2,Odesa,Bryansk Oblast
+2023-08-17 01:48,2023-08-17 05:48,Shahed-131,16,14,2,0,Vinnytsia,Black Sea
+2023-08-17 00:37,2023-08-17 01:37,Kh-555,6,4,0,2,Kyiv,Belgorod Oblast
+2023-08-17 01:02,2023-08-17 02:02,Shahed-136,19,15,0,4,Vinnytsia,Bryansk Oblast
+2023-08-18 03:44,2023-08-18 07:44,Kh-101,10,10,0,0,Kharkiv,Belarus
+2023-08-18 01:17,2023-08-18 02:17,Shahed-136,15,13,0,2,Zaporizhzhia,Black Sea
+2023-08-18 01:51,2023-08-18 03:51,Shahed-131,23,18,2,3,Donetsk,Voronezh Oblast
+2023-08-18 03:37,2023-08-18 04:37,Kalibr,7,6,0,1,Zaporizhzhia,Bryansk Oblast
+2023-08-21 03:07,2023-08-21 07:07,Shahed-136,24,21,2,1,Poltava,Caspian Sea
+2023-08-22 00:00,2023-08-22 02:00,Smerch,5,1,1,3,Chernihiv,Caspian Sea
+2023-08-22 01:31,2023-08-22 04:31,Shahed-136/Geran-2,22,20,1,1,Donetsk,Belarus
+2023-08-25 02:46,2023-08-25 03:46,Kalibr,1,1,0,0,Vinnytsia,Caspian Sea
+2023-08-25 02:51,2023-08-25 06:51,Shahed-136,12,12,0,0,Zaporizhzhia,Belarus
+2023-08-26 03:29,2023-08-26 06:29,Kh-22,4,3,0,1,Kyiv,Crimea
+2023-08-28 02:49,2023-08-28 03:49,Shahed-131,23,21,0,2,Rivne,Black Sea
+2023-08-28 01:47,2023-08-28 02:47,Shahed-136,27,19,2,6,Kyiv,Caspian Sea
+2023-08-29 02:24,2023-08-29 04:24,Kalibr,4,4,0,0,Odesa,Caspian Sea
+2023-08-29 03:14,2023-08-29 06:14,Shahed-136,20,18,0,2,Dnipro,Bryansk Oblast
+2023-08-29 02:17,2023-08-29 03:17,Shahed-238,7,5,0,2,Poltava,Voronezh Oblast
+2023-08-29 00:32,2023-08-29 01:32,Iskander-M,4,4,0,0,Odesa,Kursk Oblast
+2023-09-02 02:49,2023-09-02 05:49,Shahed-136/Geran-2,8,7,0,1,Mykolaiv,Black Sea
+2023-09-02 03:00,2023-09-02 06:00,Kh-555,2,2,0,0,Dnipro,Belgorod Oblast
+2023-09-02 02:47,2023-09-02 04:47,Orlan-10,8,5,1,2,Kherson,Voronezh Oblast
+2023-09-02 03:49,2023-09-02 05:49,Shahed-107,19,17,0,2,Chernihiv,Belarus
+2023-09-04 03:01,2023-09-04 05:01,Shahed-136,16,15,1,0,Donetsk,Voronezh Oblast
+2023-09-05 02:00,2023-09-05 06:00,Kh-101,4,4,0,0,Zhytomyr,Belgorod Oblast
+2023-09-06 03:31,2023-09-06 04:31,Shahed-136,16,14,2,0,Odesa,Belgorod Oblast
+2023-09-06 00:02,2023-09-06 02:02,Shahed-131,32,26,2,4,Rivne,Belarus
+2023-09-07 03:47,2023-09-07 04:47,Kh-101,4,3,0,1,Poltava,Black Sea
+2023-09-07 01:40,2023-09-07 05:40,Kh-555,4,4,0,0,Kharkiv,Caspian Sea
+2023-09-07 03:42,2023-09-07 05:42,Shahed-136,19,17,1,1,Dnipro,Belgorod Oblast
+2023-09-08 03:44,2023-09-08 06:44,Shahed-136,20,18,1,1,Mykolaiv,Crimea
+2023-09-08 02:14,2023-09-08 03:14,S-300,5,2,2,1,Dnipro,Krasnodar Krai
+2023-09-08 00:09,2023-09-08 01:09,Shahed-136/Geran-2,17,15,0,2,Odesa,Crimea
+2023-09-09 00:34,2023-09-09 03:34,Shahed-136,34,27,5,2,Vinnytsia,Kursk Oblast
+2023-09-09 03:19,2023-09-09 07:19,Kh-31P,4,3,1,0,Zaporizhzhia,Black Sea
+2023-09-09 00:10,2023-09-09 03:10,Shahed-131,20,15,1,4,Zhytomyr,Caspian Sea
+2023-09-09 01:53,2023-09-09 04:53,Kh-59,7,7,0,0,Odesa,Black Sea
+2023-09-12 02:16,2023-09-12 04:16,Shahed-131,21,18,2,1,Kyiv,Bryansk Oblast
+2023-09-14 00:29,2023-09-14 01:29,Shahed-136,1,1,0,0,Vinnytsia,Krasnodar Krai
+2023-09-14 00:00,2023-09-14 01:00,Shahed-131,13,12,0,1,Zhytomyr,Kursk Oblast
+2023-09-15 02:43,2023-09-15 03:43,Kh-55,5,1,2,2,Poltava,Belgorod Oblast
+2023-09-15 00:01,2023-09-15 01:01,Shahed-136,14,14,0,0,Dnipro,Crimea
+2023-09-15 01:05,2023-09-15 04:05,Kh-69,6,4,1,1,Kharkiv,Caspian Sea
+2023-09-15 03:03,2023-09-15 05:03,Shahed-131,20,16,2,2,Rivne,Bryansk Oblast
+2023-09-17 03:43,2023-09-17 07:43,Kh-35,3,1,1,1,Odesa,Voronezh Oblast
+2023-09-18 02:17,2023-09-18 06:17,Shahed-136,17,15,0,2,Rivne,Krasnodar Krai
+2023-09-18 00:39,2023-09-18 02:39,Shahed-238,13,12,0,1,Sumy,Belgorod Oblast
+2023-09-19 00:05,2023-09-19 03:05,Tornado-S,2,2,0,0,Lviv,Krasnodar Krai
+2023-09-19 03:12,2023-09-19 05:12,Kh-59MK2,5,3,1,1,Sumy,Belarus
+2023-09-19 00:24,2023-09-19 03:24,Shahed-136,8,8,0,0,Kherson,Belarus
+2023-09-19 03:22,2023-09-19 06:22,Kh-69,3,2,1,0,Lviv,Belgorod Oblast
+2023-09-20 01:01,2023-09-20 04:01,Shahed-131,8,7,1,0,Kyiv,Crimea
+2023-09-20 02:49,2023-09-20 04:49,Shahed-136/Geran-2,17,15,0,2,Odesa,Black Sea
+2023-09-20 01:42,2023-09-20 03:42,Shahed-136,12,9,1,2,Zaporizhzhia,Belarus
+2023-09-23 03:22,2023-09-23 05:22,Shahed-131,20,17,0,3,Odesa,Kursk Oblast
+2023-09-23 02:51,2023-09-23 05:51,Kh-101,2,1,1,0,Rivne,Caspian Sea
+2023-09-25 01:53,2023-09-25 05:53,Kh-55,6,5,0,1,Donetsk,Belgorod Oblast
+2023-09-25 01:31,2023-09-25 02:31,Kh-101,3,2,0,1,Kharkiv,Caspian Sea
+2023-09-26 00:33,2023-09-26 04:33,Shahed-136,23,22,1,0,Kyiv,Voronezh Oblast
+2023-09-26 01:51,2023-09-26 03:51,Kh-555,3,3,0,0,Mykolaiv,Krasnodar Krai
+2023-09-29 01:37,2023-09-29 03:37,Shahed-136,18,14,0,4,Vinnytsia,Black Sea
+2023-10-03 00:21,2023-10-03 03:21,Shahed-136,24,19,1,4,Mykolaiv,Krasnodar Krai
+2023-10-03 01:46,2023-10-03 05:46,Kh-59,3,1,0,2,Vinnytsia,Crimea
+2023-10-03 02:11,2023-10-03 05:11,Kh-101,4,3,0,1,Dnipro,Krasnodar Krai
+2023-10-03 03:19,2023-10-03 06:19,KN-23,8,5,0,3,Odesa,Krasnodar Krai
+2023-10-07 01:38,2023-10-07 04:38,Shahed-136,23,17,3,3,Rivne,Kursk Oblast
+2023-10-08 03:09,2023-10-08 06:09,Kh-59MK2,7,5,0,2,Chernihiv,Black Sea
+2023-10-09 01:40,2023-10-09 02:40,Shahed-136,17,12,1,4,Zhytomyr,Voronezh Oblast
+2023-10-09 03:00,2023-10-09 06:00,S-300,4,1,1,2,Dnipro,Kursk Oblast
+2023-10-09 00:22,2023-10-09 03:22,Kh-22,3,2,0,1,Vinnytsia,Black Sea
+2023-10-11 03:10,2023-10-11 07:10,Kh-35,2,2,0,0,Kherson,Bryansk Oblast
+2023-10-11 02:34,2023-10-11 06:34,Shahed-131,24,22,1,1,Kharkiv,Crimea
+2023-10-11 01:10,2023-10-11 05:10,Smerch,7,4,0,3,Kharkiv,Caspian Sea
+2023-10-11 02:01,2023-10-11 05:01,Shahed-136/Geran-2,20,17,0,3,Zaporizhzhia,Black Sea
+2023-10-12 03:10,2023-10-12 04:10,Kh-22,3,1,0,2,Donetsk,Black Sea
+2023-10-12 02:38,2023-10-12 06:38,Shahed-131,16,14,0,2,Chernihiv,Caspian Sea
+2023-10-13 03:10,2023-10-13 04:10,Shahed-136,21,19,1,1,Kharkiv,Voronezh Oblast
+2023-10-13 01:12,2023-10-13 05:12,Kh-101,4,3,0,1,Chernihiv,Belarus
+2023-10-16 02:15,2023-10-16 03:15,Kh-101,3,2,1,0,Kyiv,Bryansk Oblast
+2023-10-16 03:09,2023-10-16 04:09,Kh-555,9,8,1,0,Mykolaiv,Caspian Sea
+2023-10-16 03:05,2023-10-16 06:05,Shahed-136,19,15,1,3,Zhytomyr,Crimea
+2023-10-17 01:10,2023-10-17 04:10,Mohajer-6,6,1,1,4,Kharkiv,Crimea
+2023-10-19 03:31,2023-10-19 06:31,Shahed-136,21,19,0,2,Kharkiv,Belarus
+2023-10-19 03:11,2023-10-19 06:11,Kh-35,6,1,3,2,Rivne,Bryansk Oblast
+2023-10-19 02:11,2023-10-19 06:11,Kh-101,2,2,0,0,Kyiv,Belgorod Oblast
+2023-10-19 03:29,2023-10-19 06:29,Kh-555,6,5,0,1,Dnipro,Belgorod Oblast
+2023-10-20 00:05,2023-10-20 03:05,Shahed-136,22,20,0,2,Vinnytsia,Belarus
+2023-10-20 03:48,2023-10-20 05:48,Shahed-238,16,16,0,0,Donetsk,Caspian Sea
+2023-10-23 01:30,2023-10-23 04:30,Hwasong-11,8,6,0,2,Kharkiv,Bryansk Oblast
+2023-10-23 00:32,2023-10-23 02:32,S-300,2,0,0,2,Kharkiv,Crimea
+2023-10-23 01:10,2023-10-23 03:10,Zala,3,2,1,0,Vinnytsia,Kursk Oblast
+2023-10-23 01:02,2023-10-23 05:02,Kh-101,2,1,0,1,Kharkiv,Bryansk Oblast
+2023-10-24 02:20,2023-10-24 03:20,Shahed-131,19,18,0,1,Kharkiv,Bryansk Oblast
+2023-10-24 03:35,2023-10-24 06:35,Iskander-M,4,2,1,1,Zhytomyr,Belgorod Oblast
+2023-10-25 03:07,2023-10-25 07:07,Kalibr,5,5,0,0,Odesa,Krasnodar Krai
+2023-10-26 00:36,2023-10-26 01:36,Shahed-136,12,12,0,0,Vinnytsia,Belgorod Oblast
+2023-10-30 03:02,2023-10-30 05:02,Kh-101,9,9,0,0,Zaporizhzhia,Bryansk Oblast
+2023-10-30 01:39,2023-10-30 05:39,Shahed-136,16,14,0,2,Kyiv,Bryansk Oblast
+2023-10-30 02:44,2023-10-30 04:44,Shahed-238,26,25,0,1,Kyiv,Crimea
+2023-10-30 02:57,2023-10-30 05:57,Iskander-M,2,0,1,1,Kyiv,Voronezh Oblast
+2023-11-01 03:54,2023-11-01 04:54,Shahed-107,16,15,1,0,Zhytomyr,Kursk Oblast
+2023-11-01 01:19,2023-11-01 05:19,S-300,5,1,1,3,Vinnytsia,Voronezh Oblast
+2023-11-01 02:46,2023-11-01 06:46,Shahed-136/Geran-2,19,16,0,3,Poltava,Black Sea
+2023-11-02 03:47,2023-11-02 07:47,Kh-555,6,3,2,1,Vinnytsia,Belarus
+2023-11-02 02:52,2023-11-02 03:52,Shahed-107,14,10,1,3,Donetsk,Krasnodar Krai
+2023-11-03 01:49,2023-11-03 02:49,Mohajer-6,3,2,0,1,Odesa,Kursk Oblast
+2023-11-03 01:53,2023-11-03 02:53,Kh-31P,6,5,0,1,Dnipro,Caspian Sea
+2023-11-03 03:03,2023-11-03 06:03,Shahed-136,17,17,0,0,Chernihiv,Kursk Oblast
+2023-11-03 02:23,2023-11-03 06:23,Shahed-131,27,24,2,1,Donetsk,Bryansk Oblast
+2023-11-04 00:15,2023-11-04 03:15,Shahed-136,10,9,1,0,Kherson,Crimea
+2023-11-05 02:22,2023-11-05 04:22,Kalibr,6,4,0,2,Zhytomyr,Belgorod Oblast
+2023-11-05 00:18,2023-11-05 01:18,Shahed-136,13,10,3,0,Lviv,Caspian Sea
+2023-11-05 01:54,2023-11-05 03:54,Shahed-131,8,8,0,0,Zhytomyr,Kursk Oblast
+2023-11-05 01:43,2023-11-05 03:43,Kh-31P,2,1,1,0,Zaporizhzhia,Bryansk Oblast
+2023-11-06 03:58,2023-11-06 05:58,Kh-59MK2,1,1,0,0,Sumy,Krasnodar Krai
+2023-11-07 01:16,2023-11-07 04:16,S-300,5,1,2,2,Chernihiv,Belgorod Oblast
+2023-11-08 02:29,2023-11-08 05:29,Shahed-136,8,8,0,0,Dnipro,Crimea
+2023-11-08 02:43,2023-11-08 06:43,KN-23,5,2,2,1,Poltava,Black Sea
+2023-11-08 00:32,2023-11-08 03:32,Iskander-M,4,2,0,2,Donetsk,Belgorod Oblast
+2023-11-08 02:43,2023-11-08 03:43,Shahed-238,21,17,1,3,Kherson,Black Sea
+2023-11-09 02:55,2023-11-09 05:55,Shahed-136,33,26,2,5,Zaporizhzhia,Belgorod Oblast
+2023-11-09 01:09,2023-11-09 03:09,Shahed-136/Geran-2,17,15,0,2,Rivne,Caspian Sea
+2023-11-09 03:42,2023-11-09 06:42,Kh-59MK2,8,6,0,2,Sumy,Krasnodar Krai
+2023-11-11 02:58,2023-11-11 06:58,Shahed-136,2,1,1,0,Lviv,Bryansk Oblast
+2023-11-11 00:37,2023-11-11 02:37,Shahed-136/Geran-2,19,17,1,1,Mykolaiv,Kursk Oblast
+2023-11-11 03:58,2023-11-11 06:58,Shahed-131,22,21,1,0,Donetsk,Belgorod Oblast
+2023-11-15 03:08,2023-11-15 06:08,Kh-101,7,6,0,1,Chernihiv,Belarus
+2023-11-17 00:14,2023-11-17 03:14,Shahed-136,22,21,1,0,Dnipro,Belgorod Oblast
+2023-11-17 03:50,2023-11-17 06:50,Kh-35,1,1,0,0,Mykolaiv,Belgorod Oblast
+2023-11-17 02:29,2023-11-17 03:29,Shahed-131,11,11,0,0,Kherson,Caspian Sea
+2023-11-19 03:56,2023-11-19 05:56,Iskander-K,3,3,0,0,Donetsk,Black Sea
+2023-11-21 03:03,2023-11-21 05:03,Kh-59,2,1,1,0,Odesa,Kursk Oblast
+2023-11-21 02:26,2023-11-21 06:26,Shahed-136/Geran-2,10,10,0,0,Odesa,Voronezh Oblast
+2023-11-21 01:49,2023-11-21 02:49,Shahed-131,26,22,0,4,Kherson,Voronezh Oblast
+2023-11-22 02:40,2023-11-22 03:40,Kh-101,1,1,0,0,Kyiv,Crimea
+2023-11-22 02:13,2023-11-22 04:13,Kalibr,6,6,0,0,Poltava,Krasnodar Krai
+2023-11-23 01:39,2023-11-23 05:39,Kh-555,5,4,1,0,Sumy,Bryansk Oblast
+2023-11-24 03:00,2023-11-24 04:00,Kh-31P,6,3,1,2,Donetsk,Kursk Oblast
+2023-11-24 02:00,2023-11-24 05:00,Shahed-136,16,13,1,2,Vinnytsia,Belarus
+2023-11-24 01:01,2023-11-24 02:01,Kh-101,5,3,1,1,Sumy,Kursk Oblast
+2023-11-24 01:44,2023-11-24 04:44,Shahed-238,20,18,1,1,Zaporizhzhia,Krasnodar Krai
+2023-11-25 01:04,2023-11-25 02:04,Shahed-136,24,21,2,1,Zaporizhzhia,Belgorod Oblast
+2023-11-25 03:46,2023-11-25 06:46,Lancet-3,6,5,0,1,Lviv,Krasnodar Krai
+2023-11-25 02:57,2023-11-25 06:57,Shahed-136/Geran-2,20,17,1,2,Mykolaiv,Kursk Oblast
+2023-11-26 00:14,2023-11-26 02:14,Shahed-136,14,13,0,1,Chernihiv,Krasnodar Krai
+2023-11-26 01:46,2023-11-26 02:46,Shahed-136/Geran-2,23,20,2,1,Poltava,Belarus
+2023-11-26 01:07,2023-11-26 04:07,Kalibr,6,6,0,0,Chernihiv,Caspian Sea
+2023-11-26 03:56,2023-11-26 06:56,Lancet-3,6,6,0,0,Vinnytsia,Belarus
+2023-11-27 00:41,2023-11-27 01:41,Kh-101,5,4,0,1,Kyiv,Black Sea
+2023-11-28 00:35,2023-11-28 03:35,Shahed-136/Geran-2,14,12,1,1,Kherson,Krasnodar Krai
+2023-11-28 01:44,2023-11-28 02:44,Shahed-136,22,18,2,2,Zaporizhzhia,Bryansk Oblast
+2023-11-28 00:42,2023-11-28 03:42,KN-23,5,2,0,3,Poltava,Krasnodar Krai
+2023-11-28 03:53,2023-11-28 04:53,Kalibr,3,3,0,0,Donetsk,Black Sea
+2023-11-29 03:12,2023-11-29 05:12,Shahed-136,14,14,0,0,Vinnytsia,Belgorod Oblast
+2023-12-02 02:10,2023-12-02 03:10,Shahed-136,27,24,2,1,Donetsk,Crimea
+2023-12-02 01:44,2023-12-02 05:44,Shahed-131,26,22,0,4,Mykolaiv,Kursk Oblast
+2023-12-02 00:00,2023-12-02 01:00,Kalibr,7,6,1,0,Rivne,Black Sea
+2023-12-02 03:09,2023-12-02 04:09,Shahed-238,16,15,0,1,Vinnytsia,Belarus
+2023-12-03 02:41,2023-12-03 04:41,Shahed-107,14,14,0,0,Kherson,Belgorod Oblast
+2023-12-04 00:52,2023-12-04 02:52,Shahed-136,27,23,1,3,Zhytomyr,Caspian Sea
+2023-12-06 03:47,2023-12-06 04:47,Shahed-136,14,12,0,2,Kharkiv,Caspian Sea
+2023-12-06 00:54,2023-12-06 02:54,Shahed-131,23,17,2,4,Sumy,Krasnodar Krai
+2023-12-06 02:22,2023-12-06 06:22,Kh-101,2,2,0,0,Poltava,Belgorod Oblast
+2023-12-08 01:07,2023-12-08 05:07,Kh-59MK2,7,6,0,1,Lviv,Crimea
+2023-12-08 02:53,2023-12-08 06:53,Shahed-136,25,18,1,6,Chernihiv,Crimea
+2023-12-08 03:41,2023-12-08 05:41,Kh-59,7,5,0,2,Kharkiv,Krasnodar Krai
+2023-12-09 01:06,2023-12-09 05:06,Shahed-136,24,21,2,1,Rivne,Crimea
+2023-12-11 03:49,2023-12-11 06:49,Kh-59MK2,6,6,0,0,Poltava,Caspian Sea
+2023-12-11 01:30,2023-12-11 05:30,Shahed-136,20,17,1,2,Kharkiv,Bryansk Oblast
+2023-12-12 02:41,2023-12-12 05:41,Shahed-131,18,17,0,1,Kyiv,Belarus
+2023-12-14 02:33,2023-12-14 03:33,Kh-69,4,2,0,2,Lviv,Kursk Oblast
+2023-12-14 03:22,2023-12-14 07:22,Shahed-131,12,10,2,0,Odesa,Belarus
+2023-12-16 01:32,2023-12-16 05:32,Shahed-131,17,16,0,1,Zhytomyr,Crimea
+2023-12-18 02:15,2023-12-18 05:15,Kalibr,2,1,0,1,Zaporizhzhia,Caspian Sea
+2023-12-18 01:35,2023-12-18 05:35,Shahed-136,22,21,1,0,Lviv,Kursk Oblast
+2023-12-18 00:29,2023-12-18 04:29,Kh-101,3,3,0,0,Vinnytsia,Crimea
+2023-12-18 00:54,2023-12-18 04:54,Kh-555,3,3,0,0,Kherson,Voronezh Oblast
+2023-12-19 00:06,2023-12-19 04:06,Kalibr,5,2,1,2,Lviv,Caspian Sea
+2023-12-19 00:52,2023-12-19 01:52,Kh-555,5,5,0,0,Vinnytsia,Belgorod Oblast
+2023-12-19 01:41,2023-12-19 05:41,Iskander-M,6,3,0,3,Mykolaiv,Voronezh Oblast
+2023-12-19 00:52,2023-12-19 02:52,Shahed-136,23,21,2,0,Zhytomyr,Crimea
+2023-12-20 02:45,2023-12-20 06:45,Kh-101,7,6,0,1,Kharkiv,Black Sea
+2023-12-20 01:00,2023-12-20 04:00,Shahed-136,21,19,1,1,Mykolaiv,Belgorod Oblast
+2023-12-20 02:44,2023-12-20 03:44,Shahed-131,8,7,1,0,Kyiv,Krasnodar Krai
+2023-12-20 03:08,2023-12-20 07:08,Kh-59MK2,1,1,0,0,Kharkiv,Belgorod Oblast
+2023-12-21 00:59,2023-12-21 04:59,Shahed-136,13,11,2,0,Dnipro,Crimea
+2023-12-21 01:45,2023-12-21 04:45,Shahed-131,18,17,1,0,Kharkiv,Bryansk Oblast
+2023-12-22 03:29,2023-12-22 05:29,Shahed-131,10,10,0,0,Kherson,Caspian Sea
+2023-12-23 03:53,2023-12-23 07:53,Shahed-136,22,21,0,1,Rivne,Belarus
+2023-12-26 01:06,2023-12-26 05:06,Shahed-136/Geran-2,13,12,0,1,Sumy,Voronezh Oblast
+2023-12-26 03:26,2023-12-26 05:26,Tornado-S,8,5,1,2,Zaporizhzhia,Bryansk Oblast
+2023-12-29 01:26,2023-12-29 04:26,Kh-101,7,5,0,2,Zhytomyr,Belarus
+2023-12-29 02:45,2023-12-29 04:45,Shahed-136,15,11,3,1,Dnipro,Kursk Oblast
+2023-12-30 02:58,2023-12-30 04:58,Shahed-136,24,21,0,3,Chernihiv,Krasnodar Krai
+2023-12-30 02:45,2023-12-30 03:45,Shahed-238,5,4,0,1,Vinnytsia,Voronezh Oblast
+2023-12-30 03:37,2023-12-30 07:37,Kh-69,5,3,0,2,Sumy,Belarus
+2023-12-31 00:33,2023-12-31 01:33,Kh-555,5,5,0,0,Kyiv,Bryansk Oblast
+2023-12-31 01:03,2023-12-31 02:03,Shahed-136,23,20,0,3,Dnipro,Belgorod Oblast
+2023-12-31 01:18,2023-12-31 04:18,Iskander-M,6,1,0,5,Odesa,Caspian Sea
+2023-12-31 02:13,2023-12-31 03:13,Smerch,5,4,0,1,Mykolaiv,Crimea
+2024-01-01 03:15,2024-01-01 06:15,Kh-101,2,2,0,0,Chernihiv,Caspian Sea
+2024-01-01 03:24,2024-01-01 07:24,Kh-555,2,2,0,0,Vinnytsia,Voronezh Oblast
+2024-01-03 01:39,2024-01-03 05:39,Kh-555,3,3,0,0,Zhytomyr,Kursk Oblast
+2024-01-03 02:48,2024-01-03 04:48,Kh-101,7,6,0,1,Vinnytsia,Kursk Oblast
+2024-01-03 02:28,2024-01-03 04:28,Shahed-131,24,21,2,1,Sumy,Black Sea
+2024-01-04 00:24,2024-01-04 01:24,Kh-555,5,5,0,0,Lviv,Belgorod Oblast
+2024-01-04 02:08,2024-01-04 04:08,Kh-101,3,3,0,0,Poltava,Belgorod Oblast
+2024-01-05 01:02,2024-01-05 03:02,Shahed-136,16,13,0,3,Rivne,Voronezh Oblast
+2024-01-05 00:49,2024-01-05 03:49,Shahed-131,17,15,1,1,Kherson,Belarus
+2024-01-05 02:04,2024-01-05 05:04,Shahed-136/Geran-2,26,24,0,2,Donetsk,Kursk Oblast
+2024-01-05 01:33,2024-01-05 02:33,Kalibr,6,4,1,1,Vinnytsia,Belarus
+2024-01-06 00:22,2024-01-06 02:22,Shahed-136/Geran-2,16,15,1,0,Rivne,Kursk Oblast
+2024-01-06 02:21,2024-01-06 05:21,Smerch,12,5,2,5,Zaporizhzhia,Kursk Oblast
+2024-01-06 03:35,2024-01-06 04:35,Shahed-238,16,13,2,1,Kharkiv,Voronezh Oblast
+2024-01-06 03:15,2024-01-06 05:15,Shahed-136,13,12,0,1,Kyiv,Voronezh Oblast
+2024-01-07 03:16,2024-01-07 06:16,Shahed-136/Geran-2,23,17,0,6,Kyiv,Belarus
+2024-01-09 03:02,2024-01-09 06:02,Kh-22,1,1,0,0,Rivne,Kursk Oblast
+2024-01-09 02:32,2024-01-09 03:32,Shahed-136,6,6,0,0,Kharkiv,Krasnodar Krai
+2024-01-09 00:40,2024-01-09 01:40,Shahed-131,21,19,0,2,Dnipro,Kursk Oblast
+2024-01-09 03:53,2024-01-09 04:53,Kh-55,3,2,0,1,Dnipro,Belarus
+2024-01-13 01:01,2024-01-13 05:01,Kalibr,1,1,0,0,Chernihiv,Voronezh Oblast
+2024-01-14 00:11,2024-01-14 03:11,Kh-47M2 Kinzhal,4,3,1,0,Donetsk,Black Sea
+2024-01-15 02:26,2024-01-15 06:26,Kh-101,4,3,0,1,Kherson,Bryansk Oblast
+2024-01-15 03:20,2024-01-15 04:20,Shahed-136,22,18,1,3,Lviv,Black Sea
+2024-01-16 00:44,2024-01-16 01:44,Shahed-136,22,19,1,2,Mykolaiv,Belarus
+2024-01-17 00:18,2024-01-17 04:18,Kh-59,5,3,1,1,Lviv,Bryansk Oblast
+2024-01-17 00:30,2024-01-17 02:30,Shahed-136,19,16,2,1,Donetsk,Kursk Oblast
+2024-01-17 01:47,2024-01-17 05:47,KN-25,13,9,1,3,Vinnytsia,Belarus
+2024-01-18 02:43,2024-01-18 05:43,Kalibr,7,6,0,1,Kyiv,Belarus
+2024-01-18 01:07,2024-01-18 02:07,Shahed-136,13,12,1,0,Kyiv,Bryansk Oblast
+2024-01-19 02:13,2024-01-19 05:13,Shahed-238,13,12,0,1,Dnipro,Bryansk Oblast
+2024-01-22 01:39,2024-01-22 04:39,Kalibr,6,4,0,2,Dnipro,Black Sea
+2024-01-22 01:42,2024-01-22 02:42,Shahed-131,24,20,1,3,Zhytomyr,Belarus
+2024-01-23 02:42,2024-01-23 03:42,Hwasong-11,2,1,0,1,Zaporizhzhia,Black Sea
+2024-01-24 02:22,2024-01-24 04:22,Kalibr,7,4,1,2,Sumy,Kursk Oblast
+2024-01-24 00:18,2024-01-24 01:18,Shahed-136,13,13,0,0,Rivne,Kursk Oblast
+2024-01-24 02:31,2024-01-24 06:31,Kh-555,6,5,0,1,Mykolaiv,Belgorod Oblast
+2024-01-24 01:36,2024-01-24 04:36,Tornado-S,9,7,1,1,Vinnytsia,Voronezh Oblast
+2024-01-26 01:50,2024-01-26 03:50,Shahed-136,8,6,2,0,Chernihiv,Bryansk Oblast
+2024-01-26 02:53,2024-01-26 05:53,Shahed-136/Geran-2,20,18,1,1,Odesa,Voronezh Oblast
+2024-01-26 03:29,2024-01-26 07:29,Kh-101,5,5,0,0,Mykolaiv,Belgorod Oblast
+2024-01-27 01:41,2024-01-27 02:41,Supercam S350,7,4,2,1,Zhytomyr,Belgorod Oblast
+2024-01-29 02:46,2024-01-29 03:46,Forpost-R,3,0,1,2,Chernihiv,Black Sea
+2024-01-29 00:54,2024-01-29 01:54,Shahed-136,25,22,0,3,Zhytomyr,Bryansk Oblast
+2024-01-31 02:34,2024-01-31 06:34,Kh-47M2 Kinzhal,3,1,0,2,Sumy,Krasnodar Krai
+2024-02-01 02:08,2024-02-01 06:08,Kh-31P,5,3,1,1,Donetsk,Belarus
+2024-02-01 00:25,2024-02-01 03:25,Kh-555,7,4,1,2,Donetsk,Caspian Sea
+2024-02-02 01:28,2024-02-02 03:28,Kh-101,4,3,0,1,Odesa,Krasnodar Krai
+2024-02-02 03:22,2024-02-02 04:22,Zala,8,3,2,3,Dnipro,Crimea
+2024-02-03 02:14,2024-02-03 03:14,KN-23,2,2,0,0,Sumy,Kursk Oblast
+2024-02-03 02:24,2024-02-03 06:24,KN-25,8,4,2,2,Rivne,Crimea
+2024-02-03 00:02,2024-02-03 03:02,Shahed-136,22,21,0,1,Kharkiv,Belarus
+2024-02-04 02:37,2024-02-04 04:37,Iskander-M,8,3,1,4,Lviv,Bryansk Oblast
+2024-02-04 02:37,2024-02-04 03:37,Shahed-131,24,20,1,3,Donetsk,Belgorod Oblast
+2024-02-04 03:58,2024-02-04 05:58,Kh-59MK2,7,7,0,0,Donetsk,Bryansk Oblast
+2024-02-05 03:50,2024-02-05 07:50,Kh-555,8,5,0,3,Rivne,Caspian Sea
+2024-02-05 01:28,2024-02-05 03:28,Shahed-136,14,14,0,0,Dnipro,Black Sea
+2024-02-05 02:13,2024-02-05 04:13,Kalibr,8,5,2,1,Odesa,Krasnodar Krai
+2024-02-06 01:26,2024-02-06 04:26,Kh-69,6,5,0,1,Chernihiv,Black Sea
+2024-02-07 03:13,2024-02-07 05:13,Shahed-131,28,25,0,3,Sumy,Bryansk Oblast
+2024-02-07 00:15,2024-02-07 01:15,Shahed-136,27,26,0,1,Odesa,Krasnodar Krai
+2024-02-07 01:40,2024-02-07 02:40,Kh-101,5,3,1,1,Rivne,Krasnodar Krai
+2024-02-07 00:10,2024-02-07 03:10,Iskander-K,3,2,0,1,Rivne,Krasnodar Krai
+2024-02-08 00:56,2024-02-08 03:56,Shahed-136/Geran-2,19,17,1,1,Kharkiv,Kursk Oblast
+2024-02-08 03:38,2024-02-08 07:38,Shahed-136,18,18,0,0,Zhytomyr,Crimea
+2024-02-08 01:14,2024-02-08 05:14,Kh-59,5,2,0,3,Poltava,Krasnodar Krai
+2024-02-08 01:39,2024-02-08 04:39,Kh-101,5,4,0,1,Odesa,Voronezh Oblast
+2024-02-10 01:24,2024-02-10 05:24,Shahed-136,16,15,0,1,Odesa,Black Sea
+2024-02-11 01:38,2024-02-11 02:38,Shahed-136,8,7,0,1,Odesa,Crimea
+2024-02-11 00:56,2024-02-11 01:56,Iskander-K,3,3,0,0,Kharkiv,Crimea
+2024-02-11 01:57,2024-02-11 02:57,Kh-31P,7,6,0,1,Rivne,Bryansk Oblast
+2024-02-11 03:23,2024-02-11 04:23,Shahed-107,26,25,0,1,Chernihiv,Belarus
+2024-02-12 03:22,2024-02-12 04:22,Tornado-S,4,4,0,0,Lviv,Krasnodar Krai
+2024-02-12 02:30,2024-02-12 04:30,Shahed-136,21,17,0,4,Rivne,Black Sea
+2024-02-12 02:38,2024-02-12 06:38,Shahed-136/Geran-2,7,6,0,1,Zaporizhzhia,Kursk Oblast
+2024-02-12 00:45,2024-02-12 01:45,Shahed-131,20,18,0,2,Poltava,Belarus
+2024-02-13 03:41,2024-02-13 05:41,Shahed-136,11,10,0,1,Chernihiv,Voronezh Oblast
+2024-02-14 01:27,2024-02-14 04:27,Smerch,7,4,1,2,Zaporizhzhia,Belarus
+2024-02-15 02:43,2024-02-15 06:43,Kh-101,3,2,0,1,Vinnytsia,Kursk Oblast
+2024-02-15 03:35,2024-02-15 07:35,Iskander-M,7,6,1,0,Odesa,Voronezh Oblast
+2024-02-15 03:16,2024-02-15 06:16,S-300,5,1,0,4,Poltava,Voronezh Oblast
+2024-02-17 00:47,2024-02-17 02:47,Shahed-238,1,1,0,0,Kherson,Krasnodar Krai
+2024-02-17 00:13,2024-02-17 04:13,Kh-59,2,1,0,1,Vinnytsia,Voronezh Oblast
+2024-02-19 01:24,2024-02-19 02:24,Shahed-136,27,25,0,2,Vinnytsia,Black Sea
+2024-02-21 00:04,2024-02-21 03:04,Kh-59MK2,4,3,0,1,Dnipro,Voronezh Oblast
+2024-02-21 00:38,2024-02-21 01:38,Shahed-136,5,4,0,1,Chernihiv,Bryansk Oblast
+2024-02-21 03:39,2024-02-21 06:39,Kh-101,6,5,0,1,Chernihiv,Caspian Sea
+2024-02-21 01:40,2024-02-21 05:40,Kalibr,3,3,0,0,Kherson,Caspian Sea
+2024-02-22 01:02,2024-02-22 03:02,Shahed-136,13,11,0,2,Poltava,Krasnodar Krai
+2024-02-22 00:23,2024-02-22 02:23,KN-23,7,3,0,4,Sumy,Caspian Sea
+2024-02-22 01:05,2024-02-22 04:05,Iskander-K,3,2,1,0,Vinnytsia,Bryansk Oblast
+2024-02-23 03:37,2024-02-23 05:37,Kh-55,4,4,0,0,Donetsk,Caspian Sea
+2024-02-23 00:58,2024-02-23 01:58,Shahed-136,21,17,2,2,Donetsk,Belgorod Oblast
+2024-02-23 02:22,2024-02-23 05:22,Iskander-M,7,2,1,4,Dnipro,Kursk Oblast
+2024-02-23 03:59,2024-02-23 07:59,Shahed-238,22,20,0,2,Poltava,Caspian Sea
+2024-02-24 00:35,2024-02-24 01:35,Shahed-238,19,17,0,2,Donetsk,Belgorod Oblast
+2024-02-24 02:07,2024-02-24 05:07,KN-23,4,3,0,1,Rivne,Belarus
+2024-02-24 02:44,2024-02-24 06:44,Shahed-136,1,1,0,0,Lviv,Crimea
+2024-02-24 01:48,2024-02-24 04:48,Kh-101,4,3,0,1,Vinnytsia,Crimea
+2024-02-25 03:07,2024-02-25 06:07,Orlan-10,3,1,1,1,Kharkiv,Bryansk Oblast
+2024-02-26 01:51,2024-02-26 04:51,Shahed-136/Geran-2,11,10,0,1,Lviv,Voronezh Oblast
+2024-02-26 00:44,2024-02-26 03:44,Shahed-238,18,16,1,1,Dnipro,Belgorod Oblast
+2024-02-27 00:35,2024-02-27 02:35,Shahed-136,14,14,0,0,Kherson,Voronezh Oblast
+2024-02-27 02:13,2024-02-27 05:13,Shahed-131,19,17,0,2,Odesa,Kursk Oblast
+2024-02-27 03:47,2024-02-27 05:47,Kh-555,3,3,0,0,Dnipro,Kursk Oblast
+2024-02-29 01:53,2024-02-29 04:53,Shahed-131,19,18,0,1,Odesa,Black Sea
+2024-02-29 00:58,2024-02-29 01:58,Kh-59,4,3,1,0,Sumy,Crimea
+2024-03-01 03:23,2024-03-01 06:23,Shahed-131,18,15,0,3,Kherson,Belgorod Oblast
+2024-03-02 03:14,2024-03-02 05:14,Shahed-136,25,19,1,5,Kyiv,Belarus
+2024-03-02 03:30,2024-03-02 04:30,Kh-69,8,7,1,0,Donetsk,Voronezh Oblast
+2024-03-02 03:55,2024-03-02 05:55,S-300,6,4,1,1,Kherson,Black Sea
+2024-03-03 02:44,2024-03-03 03:44,Kh-59,6,4,2,0,Kyiv,Kursk Oblast
+2024-03-03 03:37,2024-03-03 04:37,Shahed-136,24,22,0,2,Mykolaiv,Voronezh Oblast
+2024-03-03 02:11,2024-03-03 05:11,Kh-69,4,4,0,0,Dnipro,Belgorod Oblast
+2024-03-03 03:39,2024-03-03 06:39,Shahed-131,13,10,2,1,Mykolaiv,Krasnodar Krai
+2024-03-04 03:44,2024-03-04 06:44,Shahed-136,11,7,1,3,Mykolaiv,Bryansk Oblast
+2024-03-04 02:28,2024-03-04 04:28,Shahed-131,19,17,0,2,Poltava,Krasnodar Krai
+2024-03-06 02:51,2024-03-06 04:51,Shahed-131,25,21,1,3,Donetsk,Bryansk Oblast
+2024-03-08 03:51,2024-03-08 04:51,Shahed-136/Geran-2,22,18,0,4,Odesa,Bryansk Oblast
+2024-03-08 03:08,2024-03-08 06:08,Smerch,5,3,1,1,Vinnytsia,Crimea
+2024-03-09 03:06,2024-03-09 05:06,Shahed-136/Geran-2,28,22,1,5,Kyiv,Kursk Oblast
+2024-03-11 03:47,2024-03-11 06:47,Kalibr,3,3,0,0,Zaporizhzhia,Voronezh Oblast
+2024-03-12 02:01,2024-03-12 06:01,Shahed-131,14,11,1,2,Kharkiv,Voronezh Oblast
+2024-03-12 01:36,2024-03-12 03:36,Orlan-10,4,1,1,2,Vinnytsia,Belgorod Oblast
+2024-03-12 02:20,2024-03-12 06:20,Shahed-136,6,5,0,1,Vinnytsia,Crimea
+2024-03-14 03:40,2024-03-14 05:40,Shahed-136,25,21,3,1,Zhytomyr,Krasnodar Krai
+2024-03-14 02:26,2024-03-14 06:26,Kh-101,3,2,0,1,Zhytomyr,Black Sea
+2024-03-14 00:10,2024-03-14 03:10,Shahed-136/Geran-2,22,20,0,2,Dnipro,Voronezh Oblast
+2024-03-15 02:38,2024-03-15 06:38,Shahed-136,19,18,0,1,Zaporizhzhia,Crimea
+2024-03-15 02:47,2024-03-15 06:47,Orlan-10,2,2,0,0,Lviv,Krasnodar Krai
+2024-03-15 01:54,2024-03-15 02:54,Kh-55,4,4,0,0,Odesa,Kursk Oblast
+2024-03-16 01:10,2024-03-16 05:10,Kh-59,5,4,0,1,Kharkiv,Black Sea
+2024-03-17 00:01,2024-03-17 04:01,Shahed-136,16,11,1,4,Donetsk,Black Sea
+2024-03-17 00:16,2024-03-17 02:16,Kh-101,4,4,0,0,Kharkiv,Bryansk Oblast
+2024-03-17 02:14,2024-03-17 04:14,KN-25,9,7,1,1,Chernihiv,Belgorod Oblast
+2024-03-17 03:40,2024-03-17 05:40,Shahed-136/Geran-2,8,7,0,1,Odesa,Belarus
+2024-03-19 02:55,2024-03-19 06:55,Kh-101,4,2,0,2,Kherson,Belarus
+2024-03-19 02:35,2024-03-19 06:35,Shahed-131,10,8,0,2,Odesa,Belarus
+2024-03-19 01:37,2024-03-19 05:37,Smerch,3,2,0,1,Sumy,Bryansk Oblast
+2024-03-20 02:30,2024-03-20 04:30,Shahed-131,14,11,2,1,Vinnytsia,Black Sea
+2024-03-20 03:19,2024-03-20 06:19,Shahed-238,10,9,0,1,Lviv,Belgorod Oblast
+2024-03-20 01:19,2024-03-20 02:19,Shahed-136/Geran-2,20,19,1,0,Kyiv,Belarus
+2024-03-23 00:44,2024-03-23 04:44,Kalibr,4,3,0,1,Vinnytsia,Crimea
+2024-03-23 02:00,2024-03-23 06:00,Kh-101,5,4,1,0,Vinnytsia,Belgorod Oblast
+2024-03-23 01:50,2024-03-23 02:50,Shahed-136,18,18,0,0,Donetsk,Voronezh Oblast
+2024-03-23 01:26,2024-03-23 05:26,Shahed-131,19,14,2,3,Lviv,Kursk Oblast
+2024-03-24 03:14,2024-03-24 06:14,Shahed-136,12,9,1,2,Kharkiv,Bryansk Oblast
+2024-03-24 01:33,2024-03-24 04:33,Kh-101,2,2,0,0,Zaporizhzhia,Belarus
+2024-03-24 02:26,2024-03-24 04:26,Shahed-131,13,12,0,1,Zhytomyr,Black Sea
+2024-03-24 01:08,2024-03-24 04:08,KN-23,3,1,0,2,Kharkiv,Crimea
+2024-03-25 03:12,2024-03-25 06:12,Shahed-136,19,18,1,0,Kyiv,Krasnodar Krai
+2024-03-25 00:34,2024-03-25 01:34,Orlan-10,1,0,1,0,Odesa,Black Sea
+2024-03-25 02:17,2024-03-25 04:17,Kh-555,5,2,0,3,Chernihiv,Crimea
+2024-03-27 00:31,2024-03-27 02:31,Shahed-136/Geran-2,19,16,1,2,Mykolaiv,Bryansk Oblast
+2024-03-27 02:50,2024-03-27 06:50,KN-25,10,4,2,4,Mykolaiv,Crimea
+2024-03-28 02:05,2024-03-28 04:05,Iskander-M,8,5,0,3,Kyiv,Belgorod Oblast
+2024-03-30 01:12,2024-03-30 04:12,Shahed-136/Geran-2,14,10,1,3,Zhytomyr,Bryansk Oblast
+2024-03-30 00:07,2024-03-30 02:07,Kh-101,4,3,0,1,Lviv,Crimea
+2024-03-30 01:47,2024-03-30 02:47,Shahed-131,25,22,0,3,Dnipro,Crimea
+2024-03-30 00:33,2024-03-30 02:33,Shahed-136,17,14,1,2,Kherson,Bryansk Oblast
+2024-03-31 02:10,2024-03-31 03:10,Iskander-M,5,2,1,2,Chernihiv,Belarus
+2024-03-31 00:16,2024-03-31 04:16,Kh-55,5,4,0,1,Sumy,Belgorod Oblast
+2024-03-31 01:23,2024-03-31 02:23,Kh-59MK2,4,4,0,0,Zhytomyr,Kursk Oblast
+2024-04-02 02:00,2024-04-02 04:00,Shahed-136,16,14,1,1,Vinnytsia,Belgorod Oblast
+2024-04-02 00:25,2024-04-02 02:25,Kh-555,4,2,0,2,Kyiv,Caspian Sea
+2024-04-02 03:44,2024-04-02 05:44,Kalibr,3,3,0,0,Mykolaiv,Black Sea
+2024-04-02 01:10,2024-04-02 05:10,Kh-22,4,2,0,2,Kharkiv,Voronezh Oblast
+2024-04-05 02:41,2024-04-05 04:41,Shahed-136,20,15,1,4,Chernihiv,Belarus
+2024-04-07 02:35,2024-04-07 05:35,Shahed-136,15,14,0,1,Vinnytsia,Crimea
+2024-04-07 01:01,2024-04-07 05:01,Kalibr,4,2,0,2,Mykolaiv,Krasnodar Krai
+2024-04-08 03:45,2024-04-08 07:45,Shahed-136,18,15,1,2,Donetsk,Belgorod Oblast
+2024-04-09 01:36,2024-04-09 03:36,Iskander-K,5,4,0,1,Donetsk,Voronezh Oblast
+2024-04-09 02:46,2024-04-09 06:46,Kh-101,4,4,0,0,Zaporizhzhia,Belarus
+2024-04-09 01:04,2024-04-09 03:04,Shahed-136,20,19,0,1,Kherson,Belgorod Oblast
+2024-04-09 02:34,2024-04-09 05:34,Kalibr,5,3,2,0,Kherson,Caspian Sea
+2024-04-11 00:39,2024-04-11 03:39,Shahed-136,23,22,0,1,Vinnytsia,Kursk Oblast
+2024-04-11 02:46,2024-04-11 03:46,Shahed-131,15,12,0,3,Sumy,Belarus
+2024-04-13 01:39,2024-04-13 04:39,Shahed-238,19,15,2,2,Mykolaiv,Bryansk Oblast
+2024-04-13 02:07,2024-04-13 03:07,Shahed-131,10,10,0,0,Donetsk,Black Sea
+2024-04-13 00:53,2024-04-13 02:53,Shahed-136,13,12,0,1,Odesa,Caspian Sea
+2024-04-13 01:06,2024-04-13 05:06,Kh-35,2,2,0,0,Dnipro,Black Sea
+2024-04-14 03:33,2024-04-14 06:33,Shahed-131,21,16,1,4,Kyiv,Voronezh Oblast
+2024-04-14 01:38,2024-04-14 02:38,Kalibr,4,4,0,0,Kyiv,Kursk Oblast
+2024-04-14 03:59,2024-04-14 04:59,Shahed-136,22,18,2,2,Kherson,Caspian Sea
+2024-04-14 02:35,2024-04-14 06:35,Kh-22,2,1,0,1,Zhytomyr,Voronezh Oblast
+2024-04-16 00:46,2024-04-16 01:46,Shahed-136,10,10,0,0,Zhytomyr,Belgorod Oblast
+2024-04-16 00:13,2024-04-16 01:13,Kh-59,6,6,0,0,Kharkiv,Kursk Oblast
+2024-04-16 03:12,2024-04-16 05:12,Shahed-131,23,18,1,4,Donetsk,Kursk Oblast
+2024-04-17 03:47,2024-04-17 04:47,Shahed-131,28,25,1,2,Vinnytsia,Voronezh Oblast
+2024-04-17 03:44,2024-04-17 07:44,Kh-555,6,4,0,2,Rivne,Black Sea
+2024-04-18 03:32,2024-04-18 06:32,KN-25,2,0,1,1,Sumy,Krasnodar Krai
+2024-04-18 03:59,2024-04-18 06:59,Kalibr,3,2,0,1,Rivne,Voronezh Oblast
+2024-04-19 02:26,2024-04-19 06:26,Shahed-136/Geran-2,13,11,1,1,Zhytomyr,Voronezh Oblast
+2024-04-19 01:36,2024-04-19 03:36,Shahed-136,25,21,1,3,Lviv,Belarus
+2024-04-19 02:23,2024-04-19 06:23,Lancet-3,2,2,0,0,Kherson,Bryansk Oblast
+2024-04-20 02:38,2024-04-20 03:38,Shahed-131,23,21,1,1,Donetsk,Krasnodar Krai
+2024-04-22 01:13,2024-04-22 04:13,Shahed-136,13,12,0,1,Kyiv,Belgorod Oblast
+2024-04-22 01:06,2024-04-22 02:06,Kh-555,5,3,0,2,Kherson,Voronezh Oblast
+2024-04-22 01:08,2024-04-22 04:08,Kh-59,3,2,0,1,Mykolaiv,Kursk Oblast
+2024-04-23 00:36,2024-04-23 04:36,Shahed-131,16,16,0,0,Poltava,Kursk Oblast
+2024-04-23 00:46,2024-04-23 03:46,KN-25,7,6,0,1,Vinnytsia,Crimea
+2024-04-23 01:31,2024-04-23 02:31,Shahed-136,26,24,0,2,Poltava,Belgorod Oblast
+2024-04-24 00:49,2024-04-24 01:49,Iskander-M,1,1,0,0,Rivne,Voronezh Oblast
+2024-04-24 02:56,2024-04-24 06:56,Iskander-K,3,3,0,0,Lviv,Black Sea
+2024-04-24 01:47,2024-04-24 02:47,Shahed-136,18,16,2,0,Sumy,Bryansk Oblast
+2024-04-24 00:19,2024-04-24 01:19,Shahed-136/Geran-2,11,9,0,2,Mykolaiv,Belarus
+2024-04-25 01:09,2024-04-25 02:09,Kh-101,4,2,1,1,Sumy,Bryansk Oblast
+2024-04-25 03:48,2024-04-25 04:48,Kalibr,5,4,0,1,Dnipro,Bryansk Oblast
+2024-04-25 02:50,2024-04-25 06:50,Shahed-136/Geran-2,18,17,0,1,Odesa,Krasnodar Krai
+2024-04-26 00:35,2024-04-26 04:35,Kh-47M2 Kinzhal,3,2,0,1,Zaporizhzhia,Black Sea
+2024-04-26 03:32,2024-04-26 07:32,Kh-22,7,5,0,2,Vinnytsia,Krasnodar Krai
+2024-04-26 01:30,2024-04-26 03:30,Kh-555,5,5,0,0,Kherson,Bryansk Oblast
+2024-04-26 01:35,2024-04-26 03:35,Shahed-136,21,17,2,2,Dnipro,Black Sea
+2024-04-27 02:43,2024-04-27 03:43,Shahed-136,25,19,2,4,Kharkiv,Bryansk Oblast
+2024-04-27 03:23,2024-04-27 06:23,Kalibr,5,4,0,1,Dnipro,Voronezh Oblast
+2024-04-27 02:38,2024-04-27 03:38,Shahed-238,5,4,0,1,Vinnytsia,Belgorod Oblast
+2024-04-27 01:22,2024-04-27 05:22,Shahed-131,23,21,0,2,Poltava,Krasnodar Krai
+2024-04-28 01:43,2024-04-28 04:43,Shahed-136,17,15,1,1,Odesa,Black Sea
+2024-04-28 00:47,2024-04-28 01:47,Shahed-131,19,12,2,5,Dnipro,Krasnodar Krai
+2024-05-01 02:28,2024-05-01 06:28,Tornado-S,4,2,1,1,Kyiv,Voronezh Oblast
+2024-05-02 01:34,2024-05-02 04:34,Iskander-M,2,0,1,1,Donetsk,Crimea
+2024-05-02 01:44,2024-05-02 02:44,Shahed-136,19,16,1,2,Lviv,Belarus
+2024-05-03 00:18,2024-05-03 02:18,Kh-59,2,2,0,0,Vinnytsia,Belgorod Oblast
+2024-05-03 00:29,2024-05-03 01:29,Shahed-136/Geran-2,10,10,0,0,Kharkiv,Bryansk Oblast
+2024-05-04 00:01,2024-05-04 03:01,Shahed-131,20,19,0,1,Zhytomyr,Bryansk Oblast
+2024-05-04 01:24,2024-05-04 02:24,Kh-555,10,8,0,2,Rivne,Voronezh Oblast
+2024-05-04 03:55,2024-05-04 04:55,Shahed-136/Geran-2,14,14,0,0,Odesa,Kursk Oblast
+2024-05-05 00:02,2024-05-05 02:02,Kh-101,4,3,0,1,Rivne,Belarus
+2024-05-05 02:21,2024-05-05 06:21,Shahed-136,14,13,0,1,Lviv,Krasnodar Krai
+2024-05-05 00:22,2024-05-05 03:22,Kh-22,8,5,1,2,Mykolaiv,Belgorod Oblast
+2024-05-05 01:32,2024-05-05 04:32,Shahed-136/Geran-2,21,19,0,2,Vinnytsia,Caspian Sea
+2024-05-06 00:35,2024-05-06 03:35,Kalibr,2,1,0,1,Dnipro,Krasnodar Krai
+2024-05-06 02:57,2024-05-06 06:57,Kh-101,7,5,0,2,Sumy,Krasnodar Krai
+2024-05-06 00:46,2024-05-06 04:46,Shahed-131,22,20,0,2,Donetsk,Kursk Oblast
+2024-05-06 03:15,2024-05-06 05:15,Shahed-136/Geran-2,17,15,2,0,Lviv,Belgorod Oblast
+2024-05-08 01:41,2024-05-08 03:41,Shahed-131,18,17,0,1,Poltava,Belarus
+2024-05-08 01:55,2024-05-08 03:55,Shahed-136,5,2,1,2,Zaporizhzhia,Belarus
+2024-05-10 01:20,2024-05-10 02:20,Shahed-136,7,6,0,1,Donetsk,Belarus
+2024-05-10 00:11,2024-05-10 03:11,Shahed-131,9,8,0,1,Zhytomyr,Krasnodar Krai
+2024-05-14 02:28,2024-05-14 05:28,Tornado-S,7,4,1,2,Odesa,Kursk Oblast
+2024-05-14 00:08,2024-05-14 02:08,Hwasong-11,2,1,0,1,Kyiv,Belgorod Oblast
+2024-05-14 01:38,2024-05-14 03:38,Kh-22,4,3,1,0,Dnipro,Caspian Sea
+2024-05-14 02:05,2024-05-14 06:05,Kh-69,3,3,0,0,Odesa,Belarus
+2024-05-16 01:54,2024-05-16 05:54,Kh-101,1,0,0,1,Kherson,Crimea
+2024-05-16 01:10,2024-05-16 03:10,Kh-555,6,6,0,0,Dnipro,Caspian Sea
+2024-05-16 03:48,2024-05-16 04:48,Shahed-136/Geran-2,16,15,0,1,Rivne,Belgorod Oblast
+2024-05-18 01:04,2024-05-18 03:04,Shahed-136,22,19,0,3,Rivne,Crimea
+2024-05-18 03:44,2024-05-18 06:44,Shahed-131,25,24,0,1,Zhytomyr,Crimea
+2024-05-20 03:46,2024-05-20 06:46,Kh-555,5,3,1,1,Lviv,Belarus
+2024-05-21 00:28,2024-05-21 04:28,Shahed-136,21,21,0,0,Zhytomyr,Caspian Sea
+2024-05-23 00:35,2024-05-23 04:35,Kh-101,3,2,1,0,Donetsk,Caspian Sea
+2024-05-23 01:18,2024-05-23 05:18,KN-25,5,3,1,1,Lviv,Belgorod Oblast
+2024-05-23 02:29,2024-05-23 04:29,Iskander-M,4,2,0,2,Lviv,Belgorod Oblast
+2024-05-23 00:44,2024-05-23 02:44,Shahed-131,23,21,0,2,Kherson,Crimea
+2024-05-24 01:49,2024-05-24 03:49,Shahed-131,19,19,0,0,Lviv,Bryansk Oblast
+2024-05-25 01:29,2024-05-25 03:29,Smerch,2,0,1,1,Rivne,Crimea
+2024-05-26 01:45,2024-05-26 02:45,Smerch,11,6,1,4,Kharkiv,Black Sea
+2024-05-26 03:40,2024-05-26 06:40,Kh-555,5,4,0,1,Kharkiv,Belarus
+2024-05-26 03:46,2024-05-26 05:46,S-300,6,2,1,3,Lviv,Belarus
+2024-05-27 02:36,2024-05-27 04:36,Shahed-136,18,17,0,1,Odesa,Krasnodar Krai
+2024-05-27 01:49,2024-05-27 02:49,Kh-59,8,8,0,0,Lviv,Belgorod Oblast
+2024-05-28 02:40,2024-05-28 04:40,Shahed-136,1,1,0,0,Kharkiv,Krasnodar Krai
+2024-05-28 01:00,2024-05-28 04:00,Shahed-131,30,28,1,1,Kyiv,Crimea
+2024-05-28 03:54,2024-05-28 07:54,Shahed-238,28,22,2,4,Donetsk,Caspian Sea
+2024-05-28 03:15,2024-05-28 05:15,Kalibr,8,4,0,4,Poltava,Crimea
+2024-05-29 00:38,2024-05-29 01:38,Shahed-136,15,14,0,1,Dnipro,Belarus
+2024-05-29 02:39,2024-05-29 04:39,Kh-101,4,4,0,0,Kyiv,Krasnodar Krai
+2024-05-29 01:03,2024-05-29 04:03,Kh-55,3,0,1,2,Kyiv,Krasnodar Krai
+2024-05-29 00:42,2024-05-29 03:42,Shahed-131,10,7,0,3,Mykolaiv,Black Sea
+2024-05-30 01:10,2024-05-30 04:10,Shahed-131,11,10,0,1,Poltava,Belarus
+2024-05-30 01:29,2024-05-30 04:29,Kh-101,8,8,0,0,Rivne,Caspian Sea
+2024-05-30 00:49,2024-05-30 03:49,Shahed-136,18,15,0,3,Mykolaiv,Voronezh Oblast
+2024-05-30 03:52,2024-05-30 04:52,Shahed-136/Geran-2,21,19,0,2,Vinnytsia,Bryansk Oblast
+2024-06-01 01:07,2024-06-01 04:07,Shahed-136,22,21,0,1,Mykolaiv,Belarus
+2024-06-01 03:33,2024-06-01 05:33,Kh-55,4,4,0,0,Chernihiv,Kursk Oblast
+2024-06-01 00:06,2024-06-01 01:06,Iskander-M,5,2,1,2,Kherson,Belgorod Oblast
+2024-06-01 03:38,2024-06-01 06:38,Kalibr,5,4,1,0,Zaporizhzhia,Belarus
+2024-06-02 01:39,2024-06-02 05:39,Shahed-136,28,23,2,3,Donetsk,Crimea
+2024-06-02 03:51,2024-06-02 05:51,Kh-55,1,0,0,1,Rivne,Kursk Oblast
+2024-06-02 02:12,2024-06-02 03:12,Orlan-10,3,1,1,1,Kharkiv,Caspian Sea
+2024-06-03 01:51,2024-06-03 05:51,Shahed-131,20,17,3,0,Lviv,Caspian Sea
+2024-06-04 00:40,2024-06-04 02:40,Shahed-136,11,11,0,0,Chernihiv,Belgorod Oblast
+2024-06-04 02:50,2024-06-04 03:50,Iskander-M,4,3,1,0,Zaporizhzhia,Belgorod Oblast
+2024-06-05 00:07,2024-06-05 03:07,Zala,1,0,0,1,Mykolaiv,Bryansk Oblast
+2024-06-05 00:53,2024-06-05 02:53,Shahed-136,14,12,0,2,Dnipro,Voronezh Oblast
+2024-06-05 02:59,2024-06-05 06:59,S-300,10,4,1,5,Rivne,Crimea
+2024-06-07 01:40,2024-06-07 05:40,Kh-59,2,2,0,0,Rivne,Belarus
+2024-06-07 02:29,2024-06-07 06:29,Shahed-136,26,22,1,3,Rivne,Caspian Sea
+2024-06-07 02:36,2024-06-07 05:36,S-300,5,2,0,3,Donetsk,Belarus
+2024-06-07 00:13,2024-06-07 03:13,Kalibr,3,2,0,1,Vinnytsia,Voronezh Oblast
+2024-06-08 02:53,2024-06-08 03:53,Shahed-136,8,8,0,0,Mykolaiv,Bryansk Oblast
+2024-06-08 01:36,2024-06-08 05:36,Iskander-M,5,4,0,1,Odesa,Black Sea
+2024-06-12 02:26,2024-06-12 03:26,Shahed-131,15,15,0,0,Kherson,Kursk Oblast
+2024-06-13 01:33,2024-06-13 04:33,Kh-101,5,3,1,1,Odesa,Black Sea
+2024-06-13 02:50,2024-06-13 03:50,Shahed-131,24,19,1,4,Vinnytsia,Kursk Oblast
+2024-06-13 00:28,2024-06-13 01:28,KN-23,5,3,0,2,Vinnytsia,Crimea
+2024-06-15 03:46,2024-06-15 06:46,Shahed-136,19,16,1,2,Vinnytsia,Voronezh Oblast
+2024-06-15 01:49,2024-06-15 02:49,Kh-101,3,3,0,0,Zhytomyr,Belarus
+2024-06-15 01:13,2024-06-15 02:13,Kalibr,5,4,0,1,Kherson,Bryansk Oblast
+2024-06-17 02:59,2024-06-17 03:59,Shahed-136,25,25,0,0,Sumy,Black Sea
+2024-06-18 00:33,2024-06-18 03:33,Iskander-M,4,3,1,0,Kyiv,Belgorod Oblast
+2024-06-19 02:12,2024-06-19 04:12,Shahed-136,31,26,2,3,Zaporizhzhia,Belgorod Oblast
+2024-06-19 02:49,2024-06-19 06:49,KN-23,2,2,0,0,Sumy,Black Sea
+2024-06-20 02:07,2024-06-20 03:07,Kalibr,5,5,0,0,Poltava,Belarus
+2024-06-20 00:13,2024-06-20 03:13,Shahed-136,16,15,1,0,Donetsk,Voronezh Oblast
+2024-06-21 01:10,2024-06-21 02:10,Shahed-238,22,20,0,2,Zaporizhzhia,Voronezh Oblast
+2024-06-21 03:03,2024-06-21 05:03,Iskander-M,6,2,3,1,Kyiv,Crimea
+2024-06-21 00:06,2024-06-21 04:06,Shahed-136,21,19,1,1,Kyiv,Black Sea
+2024-06-22 03:39,2024-06-22 06:39,Kh-35,5,1,1,3,Zaporizhzhia,Voronezh Oblast
+2024-06-22 01:45,2024-06-22 02:45,Kalibr,5,3,1,1,Rivne,Crimea
+2024-06-23 03:06,2024-06-23 07:06,Shahed-136,13,11,0,2,Zaporizhzhia,Crimea
+2024-06-24 01:55,2024-06-24 04:55,Shahed-131,12,11,0,1,Rivne,Voronezh Oblast
+2024-06-24 03:11,2024-06-24 06:11,Kh-22,6,5,1,0,Vinnytsia,Voronezh Oblast
+2024-06-25 00:30,2024-06-25 01:30,Shahed-136/Geran-2,26,20,3,3,Mykolaiv,Crimea
+2024-06-26 02:49,2024-06-26 05:49,Shahed-136,13,12,0,1,Poltava,Krasnodar Krai
+2024-06-26 00:25,2024-06-26 01:25,Kh-69,4,4,0,0,Mykolaiv,Belarus
+2024-06-27 03:25,2024-06-27 07:25,Shahed-136,13,12,1,0,Dnipro,Kursk Oblast
+2024-06-27 01:30,2024-06-27 05:30,Tornado-S,9,7,1,1,Kharkiv,Voronezh Oblast
+2024-06-27 01:52,2024-06-27 05:52,Shahed-136/Geran-2,21,16,2,3,Vinnytsia,Bryansk Oblast
+2024-06-28 01:11,2024-06-28 02:11,Shahed-136,11,10,1,0,Chernihiv,Crimea
+2024-06-28 00:37,2024-06-28 04:37,Shahed-238,18,14,0,4,Mykolaiv,Belarus
+2024-06-28 00:52,2024-06-28 04:52,Kh-22,4,2,1,1,Odesa,Belgorod Oblast
+2024-06-30 03:20,2024-06-30 07:20,Tornado-S,9,3,1,5,Sumy,Caspian Sea
+2024-07-01 00:48,2024-07-01 02:48,Shahed-136/Geran-2,24,20,1,3,Sumy,Krasnodar Krai
+2024-07-01 03:34,2024-07-01 06:34,Shahed-136,23,18,1,4,Lviv,Crimea
+2024-07-02 02:36,2024-07-02 05:36,Shahed-136,15,14,1,0,Rivne,Bryansk Oblast
+2024-07-02 02:05,2024-07-02 03:05,Kalibr,7,5,0,2,Poltava,Belarus
+2024-07-02 03:54,2024-07-02 05:54,Shahed-131,18,15,1,2,Zhytomyr,Belgorod Oblast
+2024-07-03 00:45,2024-07-03 03:45,Orlan-10,8,5,1,2,Kharkiv,Belgorod Oblast
+2024-07-05 02:45,2024-07-05 06:45,Shahed-136,23,19,0,4,Lviv,Bryansk Oblast
+2024-07-05 03:34,2024-07-05 05:34,Shahed-136/Geran-2,16,14,1,1,Sumy,Krasnodar Krai
+2024-07-05 03:08,2024-07-05 05:08,Iskander-M,7,3,1,3,Donetsk,Bryansk Oblast
+2024-07-05 02:53,2024-07-05 06:53,Kalibr,7,4,0,3,Odesa,Belgorod Oblast
+2024-07-07 00:04,2024-07-07 01:04,Kh-35,5,3,0,2,Odesa,Crimea
+2024-07-07 03:08,2024-07-07 04:08,Shahed-131,18,16,1,1,Odesa,Bryansk Oblast
+2024-07-10 01:29,2024-07-10 05:29,Shahed-131,19,16,1,2,Donetsk,Crimea
+2024-07-10 03:22,2024-07-10 05:22,Shahed-136/Geran-2,14,13,1,0,Odesa,Bryansk Oblast
+2024-07-10 00:36,2024-07-10 04:36,Shahed-238,21,18,1,2,Zhytomyr,Kursk Oblast
+2024-07-10 02:26,2024-07-10 05:26,Shahed-136,15,13,0,2,Kyiv,Caspian Sea
+2024-07-11 00:37,2024-07-11 04:37,Kh-59,6,5,0,1,Chernihiv,Black Sea
+2024-07-11 01:46,2024-07-11 04:46,Kh-101,4,4,0,0,Kherson,Belarus
+2024-07-11 00:33,2024-07-11 01:33,Shahed-136,13,13,0,0,Dnipro,Crimea
+2024-07-12 02:39,2024-07-12 03:39,Kalibr,6,3,1,2,Rivne,Voronezh Oblast
+2024-07-13 03:29,2024-07-13 07:29,Shahed-136,4,4,0,0,Poltava,Voronezh Oblast
+2024-07-14 02:10,2024-07-14 03:10,Kalibr,5,5,0,0,Chernihiv,Belgorod Oblast
+2024-07-14 02:03,2024-07-14 06:03,Shahed-136,25,23,0,2,Poltava,Krasnodar Krai
+2024-07-14 00:42,2024-07-14 03:42,Forpost-R,4,2,1,1,Vinnytsia,Caspian Sea
+2024-07-15 01:32,2024-07-15 02:32,Shahed-136/Geran-2,16,10,2,4,Zhytomyr,Belgorod Oblast
+2024-07-16 02:54,2024-07-16 05:54,Lancet-3,8,7,1,0,Kyiv,Black Sea
+2024-07-16 01:58,2024-07-16 03:58,Kh-59,3,3,0,0,Sumy,Crimea
+2024-07-16 02:51,2024-07-16 04:51,Shahed-136,25,23,1,1,Zaporizhzhia,Kursk Oblast
+2024-07-17 02:05,2024-07-17 04:05,Shahed-136,11,10,0,1,Poltava,Krasnodar Krai
+2024-07-20 01:42,2024-07-20 05:42,Shahed-136,13,10,2,1,Chernihiv,Krasnodar Krai
+2024-07-20 01:36,2024-07-20 04:36,Kh-101,1,1,0,0,Kyiv,Belgorod Oblast
+2024-07-20 00:03,2024-07-20 02:03,Shahed-131,17,17,0,0,Kherson,Bryansk Oblast
+2024-07-20 03:19,2024-07-20 07:19,Kalibr,2,2,0,0,Chernihiv,Belarus
+2024-07-21 03:16,2024-07-21 05:16,Shahed-136,10,8,1,1,Donetsk,Bryansk Oblast
+2024-07-21 00:18,2024-07-21 04:18,Kh-22,6,5,1,0,Lviv,Voronezh Oblast
+2024-07-21 00:06,2024-07-21 03:06,Hwasong-11,4,0,1,3,Zhytomyr,Bryansk Oblast
+2024-07-21 02:21,2024-07-21 05:21,Shahed-131,17,16,0,1,Zaporizhzhia,Black Sea
+2024-07-22 03:49,2024-07-22 05:49,Shahed-131,19,18,0,1,Chernihiv,Kursk Oblast
+2024-07-22 02:43,2024-07-22 04:43,Kh-101,7,5,1,1,Mykolaiv,Belarus
+2024-07-22 00:43,2024-07-22 01:43,Shahed-136,18,17,0,1,Zhytomyr,Black Sea
+2024-07-22 00:26,2024-07-22 01:26,Shahed-136/Geran-2,16,14,0,2,Donetsk,Black Sea
+2024-07-23 01:46,2024-07-23 04:46,Shahed-136,13,12,0,1,Zaporizhzhia,Kursk Oblast
+2024-07-23 00:01,2024-07-23 01:01,Kh-69,4,2,0,2,Kyiv,Kursk Oblast
+2024-07-23 00:45,2024-07-23 01:45,Kh-59MK2,2,1,0,1,Kharkiv,Krasnodar Krai
+2024-07-24 00:44,2024-07-24 02:44,Shahed-107,13,11,0,2,Zaporizhzhia,Belgorod Oblast
+2024-07-24 03:42,2024-07-24 04:42,Shahed-131,25,23,2,0,Sumy,Crimea
+2024-07-26 02:16,2024-07-26 04:16,KN-23,4,2,1,1,Vinnytsia,Black Sea
+2024-07-26 02:49,2024-07-26 03:49,Shahed-136/Geran-2,14,13,0,1,Lviv,Bryansk Oblast
+2024-07-26 02:03,2024-07-26 05:03,Kh-555,7,6,0,1,Zhytomyr,Belgorod Oblast
+2024-07-26 01:28,2024-07-26 02:28,Tornado-S,9,6,0,3,Kherson,Kursk Oblast
+2024-07-27 03:06,2024-07-27 05:06,Shahed-136,27,24,2,1,Donetsk,Bryansk Oblast
+2024-07-27 01:39,2024-07-27 02:39,Kh-22,6,5,0,1,Rivne,Crimea
+2024-07-29 00:36,2024-07-29 03:36,Kh-55,4,3,0,1,Vinnytsia,Crimea
+2024-07-30 01:41,2024-07-30 02:41,Kalibr,6,5,0,1,Rivne,Caspian Sea
+2024-07-30 03:17,2024-07-30 05:17,Shahed-136,15,15,0,0,Chernihiv,Voronezh Oblast
+2024-07-30 03:36,2024-07-30 04:36,Kh-555,3,3,0,0,Donetsk,Crimea
+2024-07-30 03:27,2024-07-30 07:27,Shahed-238,15,11,0,4,Zhytomyr,Black Sea
+2024-07-31 03:44,2024-07-31 07:44,Iskander-K,3,3,0,0,Kharkiv,Belarus
+2024-08-02 03:03,2024-08-02 04:03,Kh-101,4,2,0,2,Mykolaiv,Belarus
+2024-08-02 02:05,2024-08-02 06:05,Shahed-136/Geran-2,15,14,1,0,Vinnytsia,Belgorod Oblast
+2024-08-02 01:11,2024-08-02 02:11,Shahed-131,20,17,1,2,Lviv,Kursk Oblast
+2024-08-03 00:40,2024-08-03 03:40,Shahed-136/Geran-2,17,14,2,1,Kherson,Black Sea
+2024-08-03 03:47,2024-08-03 05:47,Shahed-136,6,4,0,2,Odesa,Caspian Sea
+2024-08-03 01:01,2024-08-03 03:01,Shahed-131,12,11,0,1,Kherson,Bryansk Oblast
+2024-08-03 00:50,2024-08-03 03:50,Kh-101,5,3,1,1,Kherson,Belarus
+2024-08-07 00:21,2024-08-07 01:21,Shahed-136,23,21,1,1,Lviv,Black Sea
+2024-08-07 01:51,2024-08-07 05:51,Shahed-131,18,15,2,1,Sumy,Belarus
+2024-08-07 01:47,2024-08-07 03:47,Shahed-136/Geran-2,21,17,1,3,Rivne,Black Sea
+2024-08-08 03:41,2024-08-08 04:41,Shahed-136,14,11,1,2,Kherson,Caspian Sea
+2024-08-08 01:44,2024-08-08 03:44,Shahed-131,29,25,0,4,Kyiv,Krasnodar Krai
+2024-08-09 00:29,2024-08-09 02:29,Kh-59,7,6,0,1,Zhytomyr,Black Sea
+2024-08-09 00:07,2024-08-09 04:07,Kh-101,3,1,1,1,Poltava,Kursk Oblast
+2024-08-09 00:51,2024-08-09 02:51,Shahed-136,17,15,1,1,Lviv,Voronezh Oblast
+2024-08-12 00:43,2024-08-12 02:43,Kh-101,6,5,0,1,Mykolaiv,Kursk Oblast
+2024-08-12 00:37,2024-08-12 02:37,Kalibr,6,4,1,1,Mykolaiv,Black Sea
+2024-08-12 00:17,2024-08-12 02:17,Shahed-136,10,10,0,0,Vinnytsia,Bryansk Oblast
+2024-08-13 01:28,2024-08-13 03:28,Kh-555,5,4,0,1,Rivne,Caspian Sea
+2024-08-13 01:06,2024-08-13 05:06,Kalibr,5,5,0,0,Vinnytsia,Krasnodar Krai
+2024-08-13 00:56,2024-08-13 04:56,Kh-35,4,2,1,1,Kharkiv,Caspian Sea
+2024-08-14 02:26,2024-08-14 06:26,Shahed-131,13,12,1,0,Chernihiv,Krasnodar Krai
+2024-08-15 03:26,2024-08-15 05:26,Shahed-136,16,14,0,2,Odesa,Caspian Sea
+2024-08-15 01:45,2024-08-15 05:45,Shahed-136/Geran-2,20,17,1,2,Poltava,Black Sea
+2024-08-15 02:22,2024-08-15 06:22,S-300,2,0,0,2,Kyiv,Belarus
+2024-08-16 00:39,2024-08-16 03:39,Shahed-136,21,18,2,1,Zhytomyr,Belarus
+2024-08-17 01:17,2024-08-17 02:17,Iskander-M,5,2,0,3,Dnipro,Black Sea
+2024-08-17 01:43,2024-08-17 05:43,Shahed-131,22,18,0,4,Kherson,Krasnodar Krai
+2024-08-17 01:42,2024-08-17 02:42,Kh-59MK2,5,4,0,1,Kyiv,Voronezh Oblast
+2024-08-17 02:13,2024-08-17 06:13,Kalibr,1,1,0,0,Zaporizhzhia,Voronezh Oblast
+2024-08-18 00:06,2024-08-18 01:06,Kh-555,6,6,0,0,Rivne,Belarus
+2024-08-18 01:10,2024-08-18 02:10,Iskander-K,7,5,1,1,Kherson,Belarus
+2024-08-18 00:04,2024-08-18 02:04,Kalibr,11,9,1,1,Chernihiv,Crimea
+2024-08-18 02:26,2024-08-18 04:26,KN-23,2,0,1,1,Chernihiv,Voronezh Oblast
+2024-08-19 02:14,2024-08-19 03:14,Shahed-136,17,14,1,2,Dnipro,Bryansk Oblast
+2024-08-21 00:30,2024-08-21 04:30,Shahed-136,13,12,1,0,Kyiv,Bryansk Oblast
+2024-08-21 01:13,2024-08-21 05:13,Kh-101,5,4,1,0,Odesa,Bryansk Oblast
+2024-08-22 01:40,2024-08-22 04:40,Shahed-136,22,19,1,2,Zaporizhzhia,Kursk Oblast
+2024-08-22 02:08,2024-08-22 03:08,Shahed-131,12,8,1,3,Chernihiv,Caspian Sea
+2024-08-22 02:08,2024-08-22 03:08,KN-23,4,2,0,2,Zhytomyr,Crimea
+2024-08-22 03:26,2024-08-22 05:26,Shahed-238,1,1,0,0,Vinnytsia,Voronezh Oblast
+2024-08-23 01:50,2024-08-23 03:50,Shahed-136/Geran-2,14,11,0,3,Poltava,Belarus
+2024-08-23 01:05,2024-08-23 05:05,Shahed-136,12,12,0,0,Zhytomyr,Belarus
+2024-08-23 03:55,2024-08-23 05:55,Kh-22,5,2,0,3,Poltava,Crimea
+2024-08-25 01:15,2024-08-25 04:15,Shahed-136,17,15,1,1,Lviv,Kursk Oblast
+2024-08-25 01:58,2024-08-25 02:58,Shahed-131,14,13,0,1,Lviv,Caspian Sea
+2024-08-25 00:30,2024-08-25 01:30,Shahed-136/Geran-2,16,16,0,0,Lviv,Belarus
+2024-08-25 03:30,2024-08-25 04:30,Iskander-M,3,3,0,0,Kherson,Crimea
+2024-08-26 03:13,2024-08-26 05:13,Shahed-136/Geran-2,27,25,1,1,Mykolaiv,Belgorod Oblast
+2024-08-27 00:30,2024-08-27 03:30,Shahed-131,22,19,1,2,Odesa,Crimea
+2024-08-30 03:49,2024-08-30 05:49,Shahed-136,23,21,0,2,Zhytomyr,Bryansk Oblast
+2024-08-30 01:50,2024-08-30 04:50,KN-23,9,6,1,2,Sumy,Crimea
+2024-08-30 00:55,2024-08-30 01:55,Kh-47M2 Kinzhal,3,0,2,1,Lviv,Voronezh Oblast
+2024-08-30 00:18,2024-08-30 04:18,Kh-59MK2,5,4,0,1,Vinnytsia,Belgorod Oblast
+2024-08-31 00:39,2024-08-31 03:39,Shahed-136,18,17,0,1,Chernihiv,Caspian Sea
+2024-08-31 02:56,2024-08-31 03:56,Iskander-M,6,4,0,2,Kharkiv,Bryansk Oblast
+2024-09-01 02:23,2024-09-01 04:23,Shahed-136/Geran-2,22,19,0,3,Sumy,Belarus
+2024-09-03 01:21,2024-09-03 03:21,Shahed-136,19,16,1,2,Donetsk,Black Sea
+2024-09-03 03:47,2024-09-03 05:47,Hwasong-11,3,2,0,1,Vinnytsia,Kursk Oblast
+2024-09-04 03:17,2024-09-04 04:17,Shahed-136,14,12,0,2,Kharkiv,Voronezh Oblast
+2024-09-04 02:28,2024-09-04 06:28,Kh-555,4,3,0,1,Donetsk,Belarus
+2024-09-04 00:30,2024-09-04 03:30,Kh-101,4,3,0,1,Kherson,Voronezh Oblast
+2024-09-09 00:05,2024-09-09 04:05,Shahed-136,18,14,1,3,Rivne,Krasnodar Krai
+2024-09-09 02:04,2024-09-09 03:04,Shahed-131,12,9,0,3,Odesa,Belgorod Oblast
+2024-09-09 00:44,2024-09-09 02:44,Smerch,8,5,2,1,Kherson,Krasnodar Krai
+2024-09-09 01:33,2024-09-09 02:33,Shahed-136/Geran-2,20,18,0,2,Zaporizhzhia,Bryansk Oblast
+2024-09-11 03:22,2024-09-11 07:22,Kalibr,6,6,0,0,Kherson,Caspian Sea
+2024-09-11 02:12,2024-09-11 03:12,Kh-35,6,4,0,2,Kyiv,Kursk Oblast
+2024-09-13 03:37,2024-09-13 06:37,Shahed-107,17,14,1,2,Sumy,Voronezh Oblast
+2024-09-13 03:37,2024-09-13 07:37,Kh-22,5,2,0,3,Kherson,Belgorod Oblast
+2024-09-13 01:57,2024-09-13 04:57,Kalibr,7,6,0,1,Odesa,Belgorod Oblast
+2024-09-14 02:49,2024-09-14 03:49,Shahed-131,13,13,0,0,Odesa,Voronezh Oblast
+2024-09-14 02:29,2024-09-14 04:29,Kh-59,2,2,0,0,Poltava,Krasnodar Krai
+2024-09-14 02:11,2024-09-14 04:11,Shahed-136,17,17,0,0,Zhytomyr,Krasnodar Krai
+2024-09-15 00:20,2024-09-15 02:20,Shahed-136/Geran-2,19,16,1,2,Kherson,Belgorod Oblast
+2024-09-16 00:42,2024-09-16 03:42,Kalibr,2,2,0,0,Mykolaiv,Krasnodar Krai
+2024-09-16 02:28,2024-09-16 04:28,Shahed-131,24,23,0,1,Donetsk,Belgorod Oblast
+2024-09-17 03:59,2024-09-17 07:59,Mohajer-6,7,3,1,3,Vinnytsia,Krasnodar Krai
+2024-09-20 02:30,2024-09-20 05:30,Shahed-136/Geran-2,20,18,0,2,Vinnytsia,Krasnodar Krai
+2024-09-20 03:21,2024-09-20 04:21,Kalibr,5,4,1,0,Chernihiv,Crimea
+2024-09-20 00:08,2024-09-20 01:08,Kh-101,3,2,0,1,Zaporizhzhia,Caspian Sea
+2024-09-21 03:22,2024-09-21 04:22,Shahed-136,19,17,1,1,Mykolaiv,Caspian Sea
+2024-09-21 01:37,2024-09-21 03:37,Kh-101,6,5,0,1,Vinnytsia,Belgorod Oblast
+2024-09-22 03:43,2024-09-22 04:43,Iskander-K,4,3,0,1,Donetsk,Bryansk Oblast
+2024-09-23 00:58,2024-09-23 03:58,Shahed-131,16,15,1,0,Lviv,Krasnodar Krai
+2024-09-23 03:23,2024-09-23 07:23,Shahed-136/Geran-2,16,14,0,2,Mykolaiv,Caspian Sea
+2024-09-23 02:22,2024-09-23 05:22,Shahed-136,15,11,1,3,Zaporizhzhia,Crimea
+2024-09-25 03:51,2024-09-25 07:51,Lancet-3,3,3,0,0,Zaporizhzhia,Krasnodar Krai
+2024-09-25 03:46,2024-09-25 07:46,Shahed-238,19,17,0,2,Odesa,Black Sea
+2024-09-25 01:13,2024-09-25 04:13,Shahed-136,14,14,0,0,Kherson,Belarus
+2024-09-25 02:04,2024-09-25 06:04,Shahed-136/Geran-2,15,13,1,1,Kharkiv,Caspian Sea
+2024-09-26 03:11,2024-09-26 07:11,Shahed-131,20,20,0,0,Chernihiv,Krasnodar Krai
+2024-09-26 01:11,2024-09-26 05:11,Shahed-136,17,15,0,2,Zaporizhzhia,Belarus
+2024-09-26 03:02,2024-09-26 06:02,S-300,6,2,2,2,Zhytomyr,Belgorod Oblast
+2024-09-27 01:01,2024-09-27 02:01,Shahed-136/Geran-2,18,16,0,2,Odesa,Belgorod Oblast
+2024-09-27 02:40,2024-09-27 06:40,Shahed-136,21,15,1,5,Kharkiv,Belgorod Oblast
+2024-09-27 03:11,2024-09-27 07:11,Kh-555,1,1,0,0,Rivne,Kursk Oblast
+2024-09-27 00:07,2024-09-27 03:07,KN-23,6,6,0,0,Kherson,Black Sea
+2024-09-28 03:36,2024-09-28 07:36,Kh-101,1,1,0,0,Zhytomyr,Belgorod Oblast
+2024-09-28 03:44,2024-09-28 04:44,Shahed-136,18,16,2,0,Mykolaiv,Belarus
+2024-09-28 00:54,2024-09-28 03:54,Kalibr,4,3,1,0,Odesa,Caspian Sea
+2024-09-29 01:22,2024-09-29 03:22,Shahed-136,20,15,2,3,Kyiv,Belgorod Oblast
+2024-09-29 02:26,2024-09-29 05:26,Tornado-S,13,6,5,2,Kyiv,Belgorod Oblast
+2024-09-29 02:33,2024-09-29 03:33,Kh-59MK2,4,4,0,0,Donetsk,Kursk Oblast
+2024-09-29 01:48,2024-09-29 02:48,Shahed-131,3,3,0,0,Poltava,Krasnodar Krai
+2024-09-30 02:17,2024-09-30 05:17,Shahed-136/Geran-2,23,21,1,1,Kharkiv,Belarus
+2024-09-30 02:52,2024-09-30 04:52,Shahed-238,18,12,2,4,Kyiv,Krasnodar Krai
+2024-09-30 02:23,2024-09-30 06:23,Kh-555,8,7,1,0,Lviv,Voronezh Oblast
+2024-10-02 01:32,2024-10-02 03:32,Shahed-136,12,10,0,2,Zhytomyr,Kursk Oblast
+2024-10-02 00:26,2024-10-02 04:26,Shahed-131,6,5,0,1,Rivne,Black Sea
+2024-10-03 00:30,2024-10-03 03:30,Shahed-136,13,11,0,2,Zaporizhzhia,Voronezh Oblast
+2024-10-03 01:52,2024-10-03 05:52,Tornado-S,5,5,0,0,Rivne,Belarus
+2024-10-05 00:47,2024-10-05 01:47,Kh-101,7,7,0,0,Dnipro,Krasnodar Krai
+2024-10-05 01:44,2024-10-05 03:44,Shahed-131,19,15,1,3,Zaporizhzhia,Krasnodar Krai
+2024-10-05 01:08,2024-10-05 02:08,Iskander-K,3,3,0,0,Lviv,Black Sea
+2024-10-06 03:02,2024-10-06 05:02,Shahed-131,26,19,1,6,Kharkiv,Caspian Sea
+2024-10-06 00:30,2024-10-06 01:30,Shahed-136/Geran-2,22,16,2,4,Rivne,Belgorod Oblast
+2024-10-06 00:04,2024-10-06 03:04,Shahed-136,16,15,0,1,Sumy,Caspian Sea
+2024-10-06 00:50,2024-10-06 01:50,Iskander-K,2,1,0,1,Rivne,Kursk Oblast
+2024-10-07 01:42,2024-10-07 04:42,Shahed-136,23,21,0,2,Kyiv,Black Sea
+2024-10-07 01:54,2024-10-07 04:54,Shahed-131,5,5,0,0,Poltava,Voronezh Oblast
+2024-10-08 00:06,2024-10-08 01:06,Mohajer-6,4,2,1,1,Donetsk,Kursk Oblast
+2024-10-08 01:18,2024-10-08 03:18,Shahed-131,24,21,0,3,Rivne,Belarus
+2024-10-09 01:58,2024-10-09 05:58,Iskander-M,6,1,2,3,Mykolaiv,Krasnodar Krai
+2024-10-10 01:53,2024-10-10 04:53,Kh-59,6,6,0,0,Lviv,Bryansk Oblast
+2024-10-11 03:07,2024-10-11 06:07,Shahed-131,15,14,1,0,Kharkiv,Crimea
+2024-10-11 00:33,2024-10-11 02:33,Shahed-136,25,22,0,3,Kherson,Voronezh Oblast
+2024-10-13 00:20,2024-10-13 04:20,Shahed-136,8,8,0,0,Kharkiv,Bryansk Oblast
+2024-10-14 03:14,2024-10-14 07:14,Shahed-131,10,6,3,1,Zaporizhzhia,Bryansk Oblast
+2024-10-14 01:54,2024-10-14 02:54,Kalibr,1,0,0,1,Rivne,Crimea
+2024-10-14 02:11,2024-10-14 03:11,Shahed-136,16,15,0,1,Sumy,Crimea
+2024-10-15 03:33,2024-10-15 04:33,S-300,4,1,0,3,Kharkiv,Krasnodar Krai
+2024-10-15 03:25,2024-10-15 04:25,Shahed-136/Geran-2,7,6,1,0,Chernihiv,Krasnodar Krai
+2024-10-15 00:23,2024-10-15 02:23,Shahed-131,12,11,1,0,Mykolaiv,Kursk Oblast
+2024-10-15 03:07,2024-10-15 05:07,Kh-47M2 Kinzhal,4,3,0,1,Zhytomyr,Bryansk Oblast
+2024-10-17 03:22,2024-10-17 07:22,Lancet-3,1,1,0,0,Sumy,Bryansk Oblast
+2024-10-17 03:32,2024-10-17 06:32,Shahed-136,20,17,0,3,Odesa,Crimea
+2024-10-17 00:07,2024-10-17 03:07,Kh-47M2 Kinzhal,3,1,0,2,Kherson,Crimea
+2024-10-18 00:06,2024-10-18 01:06,Kh-101,8,6,0,2,Zhytomyr,Black Sea
+2024-10-18 03:43,2024-10-18 04:43,Shahed-136/Geran-2,24,22,1,1,Odesa,Bryansk Oblast
+2024-10-19 01:19,2024-10-19 02:19,Shahed-136,16,15,1,0,Vinnytsia,Black Sea
+2024-10-19 03:50,2024-10-19 07:50,Shahed-238,7,5,1,1,Dnipro,Belgorod Oblast
+2024-10-19 03:31,2024-10-19 06:31,Kh-101,5,3,1,1,Donetsk,Voronezh Oblast
+2024-10-21 00:27,2024-10-21 01:27,Shahed-136,16,14,1,1,Lviv,Crimea
+2024-10-22 03:29,2024-10-22 04:29,Kh-101,3,3,0,0,Kyiv,Krasnodar Krai
+2024-10-22 02:56,2024-10-22 04:56,Kh-22,5,3,0,2,Kherson,Bryansk Oblast
+2024-10-22 01:19,2024-10-22 05:19,Shahed-131,23,22,0,1,Kherson,Black Sea
+2024-10-22 03:42,2024-10-22 07:42,Shahed-136,21,20,1,0,Kherson,Belarus
+2024-10-24 02:31,2024-10-24 06:31,Kh-101,5,4,0,1,Poltava,Voronezh Oblast
+2024-10-24 02:20,2024-10-24 03:20,Shahed-131,19,18,0,1,Kyiv,Caspian Sea
+2024-10-24 01:53,2024-10-24 04:53,Shahed-136,14,13,0,1,Mykolaiv,Caspian Sea
+2024-10-24 02:24,2024-10-24 03:24,Kh-22,4,1,1,2,Lviv,Voronezh Oblast
+2024-10-26 01:15,2024-10-26 03:15,Shahed-136/Geran-2,14,11,0,3,Sumy,Belgorod Oblast
+2024-10-27 02:07,2024-10-27 05:07,Kh-22,5,3,2,0,Odesa,Caspian Sea
+2024-10-28 03:42,2024-10-28 07:42,Shahed-136,19,19,0,0,Poltava,Belarus
+2024-10-30 00:20,2024-10-30 04:20,Kalibr,4,4,0,0,Poltava,Bryansk Oblast
+2024-10-30 02:36,2024-10-30 03:36,Shahed-136/Geran-2,25,24,0,1,Vinnytsia,Crimea
+2024-10-30 00:44,2024-10-30 02:44,Iskander-K,7,3,2,2,Mykolaiv,Crimea
+2024-10-30 02:10,2024-10-30 05:10,Mohajer-6,3,1,1,1,Mykolaiv,Bryansk Oblast
+2024-10-31 01:18,2024-10-31 04:18,Kalibr,4,3,0,1,Kyiv,Belgorod Oblast
+2024-11-02 00:45,2024-11-02 01:45,Shahed-131,9,8,0,1,Poltava,Voronezh Oblast
+2024-11-02 02:04,2024-11-02 06:04,KN-25,11,3,2,6,Lviv,Kursk Oblast
+2024-11-03 02:32,2024-11-03 05:32,Shahed-131,26,22,2,2,Lviv,Belarus
+2024-11-04 03:16,2024-11-04 07:16,Shahed-136,11,8,2,1,Sumy,Belarus
+2024-11-04 01:56,2024-11-04 02:56,Kh-47M2 Kinzhal,1,0,0,1,Sumy,Belarus
+2024-11-04 01:36,2024-11-04 05:36,Shahed-131,4,3,0,1,Dnipro,Crimea
+2024-11-04 02:59,2024-11-04 06:59,Kh-59,7,4,0,3,Rivne,Caspian Sea
+2024-11-05 03:09,2024-11-05 05:09,Kh-101,4,2,1,1,Odesa,Belgorod Oblast
+2024-11-05 03:26,2024-11-05 06:26,Shahed-136,6,5,0,1,Zhytomyr,Black Sea
+2024-11-05 01:54,2024-11-05 05:54,Kh-59MK2,3,2,0,1,Zaporizhzhia,Belgorod Oblast
+2024-11-06 01:25,2024-11-06 03:25,Shahed-136,18,14,1,3,Kharkiv,Krasnodar Krai
+2024-11-06 01:01,2024-11-06 03:01,Shahed-131,14,13,0,1,Vinnytsia,Belgorod Oblast
+2024-11-06 03:31,2024-11-06 07:31,Kh-59,6,5,1,0,Lviv,Caspian Sea
+2024-11-07 01:01,2024-11-07 04:01,Iskander-M,7,2,2,3,Vinnytsia,Belgorod Oblast
+2024-11-07 01:41,2024-11-07 02:41,Shahed-136,11,11,0,0,Chernihiv,Crimea
+2024-11-07 00:03,2024-11-07 01:03,Shahed-131,20,17,1,2,Mykolaiv,Belgorod Oblast
+2024-11-10 00:25,2024-11-10 02:25,S-300,4,2,0,2,Dnipro,Black Sea
+2024-11-10 00:33,2024-11-10 03:33,Kalibr,6,3,0,3,Kherson,Black Sea
+2024-11-10 01:38,2024-11-10 02:38,Shahed-136/Geran-2,10,8,0,2,Vinnytsia,Voronezh Oblast
+2024-11-11 01:59,2024-11-11 05:59,Shahed-136,19,16,1,2,Dnipro,Krasnodar Krai
+2024-11-11 00:11,2024-11-11 02:11,Shahed-238,10,10,0,0,Zaporizhzhia,Crimea
+2024-11-11 03:16,2024-11-11 04:16,KN-23,6,3,1,2,Kherson,Belarus
+2024-11-11 02:44,2024-11-11 03:44,Shahed-131,14,13,1,0,Mykolaiv,Belarus
+2024-11-12 02:56,2024-11-12 04:56,Shahed-136,6,5,0,1,Mykolaiv,Crimea
+2024-11-12 02:52,2024-11-12 05:52,Kh-101,4,2,0,2,Kyiv,Caspian Sea
+2024-11-14 01:16,2024-11-14 05:16,Kh-47M2 Kinzhal,5,4,0,1,Zaporizhzhia,Voronezh Oblast
+2024-11-16 03:24,2024-11-16 04:24,Iskander-K,5,4,0,1,Rivne,Bryansk Oblast
+2024-11-16 02:19,2024-11-16 03:19,Shahed-131,20,18,0,2,Rivne,Kursk Oblast
+2024-11-17 03:40,2024-11-17 06:40,Shahed-136,15,14,0,1,Rivne,Bryansk Oblast
+2024-11-17 00:17,2024-11-17 01:17,Kh-555,5,5,0,0,Zhytomyr,Crimea
+2024-11-18 02:45,2024-11-18 06:45,Shahed-136,29,24,2,3,Rivne,Black Sea
+2024-11-18 01:44,2024-11-18 04:44,KN-23,5,2,0,3,Donetsk,Black Sea
+2024-11-18 02:26,2024-11-18 05:26,Smerch,10,5,2,3,Kherson,Caspian Sea
+2024-11-18 00:41,2024-11-18 02:41,Kh-31P,4,0,0,4,Sumy,Crimea
+2024-11-20 01:40,2024-11-20 04:40,Kalibr,2,1,0,1,Mykolaiv,Black Sea
+2024-11-20 00:10,2024-11-20 02:10,Iskander-M,6,4,2,0,Donetsk,Krasnodar Krai
+2024-11-20 03:50,2024-11-20 06:50,Shahed-107,27,24,1,2,Kherson,Crimea
+2024-11-20 01:16,2024-11-20 03:16,Lancet-3,2,2,0,0,Sumy,Voronezh Oblast
+2024-11-22 02:11,2024-11-22 06:11,KN-25,5,4,0,1,Rivne,Bryansk Oblast
+2024-11-22 01:01,2024-11-22 02:01,Hwasong-11,6,5,0,1,Rivne,Belarus
+2024-11-22 01:58,2024-11-22 02:58,Shahed-136,12,10,0,2,Kherson,Kursk Oblast
+2024-11-22 02:44,2024-11-22 04:44,Shahed-136/Geran-2,23,21,1,1,Kyiv,Bryansk Oblast
+2024-11-23 01:05,2024-11-23 04:05,Shahed-136,27,26,0,1,Odesa,Black Sea
+2024-11-23 00:45,2024-11-23 04:45,Smerch,3,0,0,3,Vinnytsia,Crimea
+2024-11-23 03:07,2024-11-23 05:07,Kh-35,3,1,2,0,Chernihiv,Kursk Oblast
+2024-11-24 02:47,2024-11-24 06:47,KN-23,3,1,2,0,Lviv,Krasnodar Krai
+2024-11-24 03:54,2024-11-24 05:54,Shahed-238,14,13,1,0,Poltava,Kursk Oblast
+2024-11-24 02:46,2024-11-24 04:46,S-300,4,1,0,3,Lviv,Krasnodar Krai
+2024-11-25 00:18,2024-11-25 03:18,Shahed-136,10,10,0,0,Dnipro,Crimea
+2024-11-25 01:23,2024-11-25 05:23,Shahed-107,28,23,1,4,Kharkiv,Caspian Sea
+2024-11-26 03:43,2024-11-26 05:43,Shahed-136,25,22,1,2,Chernihiv,Bryansk Oblast
+2024-11-26 03:47,2024-11-26 06:47,Kalibr,4,3,0,1,Kharkiv,Black Sea
+2024-11-26 00:03,2024-11-26 03:03,Kh-69,7,7,0,0,Rivne,Kursk Oblast
+2024-11-27 00:00,2024-11-27 03:00,Kh-101,2,1,0,1,Donetsk,Bryansk Oblast
+2024-11-27 02:25,2024-11-27 05:25,Forpost-R,5,4,0,1,Odesa,Belarus
+2024-11-27 00:37,2024-11-27 02:37,Shahed-131,25,21,1,3,Zaporizhzhia,Krasnodar Krai
+2024-11-28 03:08,2024-11-28 04:08,Shahed-131,15,14,1,0,Mykolaiv,Belarus
+2024-11-28 03:09,2024-11-28 06:09,Shahed-136,20,18,1,1,Kharkiv,Voronezh Oblast
+2024-11-28 00:08,2024-11-28 04:08,Shahed-238,26,24,0,2,Zhytomyr,Belgorod Oblast
+2024-12-01 02:33,2024-12-01 05:33,Shahed-136,14,12,0,2,Lviv,Krasnodar Krai
+2024-12-01 02:47,2024-12-01 06:47,Kh-101,8,6,1,1,Vinnytsia,Krasnodar Krai
+2024-12-01 03:03,2024-12-01 05:03,Shahed-131,14,13,1,0,Odesa,Caspian Sea
+2024-12-02 03:16,2024-12-02 05:16,Kh-101,3,2,1,0,Chernihiv,Crimea
+2024-12-03 00:28,2024-12-03 03:28,Shahed-131,13,12,0,1,Chernihiv,Belarus
+2024-12-03 03:29,2024-12-03 07:29,Shahed-136,21,19,2,0,Kharkiv,Krasnodar Krai
+2024-12-03 00:22,2024-12-03 01:22,Shahed-136/Geran-2,10,9,0,1,Dnipro,Belgorod Oblast
+2024-12-03 01:53,2024-12-03 03:53,Iskander-M,6,4,0,2,Chernihiv,Belarus
+2024-12-05 00:33,2024-12-05 02:33,Kalibr,5,4,0,1,Lviv,Black Sea
+2024-12-05 01:49,2024-12-05 05:49,Kh-101,1,0,0,1,Sumy,Black Sea
+2024-12-07 03:23,2024-12-07 04:23,Kh-59MK2,4,3,0,1,Zhytomyr,Voronezh Oblast
+2024-12-08 03:53,2024-12-08 07:53,Kh-101,4,4,0,0,Kherson,Belgorod Oblast
+2024-12-09 02:02,2024-12-09 06:02,Shahed-131,12,10,0,2,Mykolaiv,Krasnodar Krai
+2024-12-10 02:20,2024-12-10 03:20,Shahed-136,22,18,1,3,Chernihiv,Black Sea
+2024-12-11 00:25,2024-12-11 03:25,Kh-101,4,4,0,0,Odesa,Kursk Oblast
+2024-12-11 03:05,2024-12-11 04:05,Shahed-136,20,19,1,0,Zhytomyr,Kursk Oblast
+2024-12-11 01:24,2024-12-11 05:24,Shahed-107,11,9,1,1,Zaporizhzhia,Krasnodar Krai
+2024-12-11 00:19,2024-12-11 04:19,Iskander-M,6,1,1,4,Vinnytsia,Bryansk Oblast
+2024-12-15 00:53,2024-12-15 03:53,Shahed-136,19,16,1,2,Donetsk,Kursk Oblast
+2024-12-15 03:28,2024-12-15 07:28,Lancet-3,3,3,0,0,Kherson,Belgorod Oblast
+2024-12-15 03:05,2024-12-15 07:05,Shahed-131,13,12,0,1,Vinnytsia,Voronezh Oblast
+2024-12-16 03:05,2024-12-16 04:05,Shahed-136/Geran-2,23,22,0,1,Donetsk,Voronezh Oblast
+2024-12-16 03:43,2024-12-16 05:43,Iskander-K,6,4,1,1,Sumy,Krasnodar Krai
+2024-12-16 03:33,2024-12-16 04:33,Shahed-136,18,16,0,2,Zaporizhzhia,Crimea
+2024-12-16 03:05,2024-12-16 07:05,Shahed-131,15,12,2,1,Zaporizhzhia,Krasnodar Krai
+2024-12-18 01:33,2024-12-18 05:33,Shahed-131,23,18,0,5,Zaporizhzhia,Caspian Sea
+2024-12-18 00:58,2024-12-18 01:58,Kh-59MK2,4,2,1,1,Donetsk,Black Sea
+2024-12-18 03:26,2024-12-18 04:26,S-300,3,2,1,0,Kherson,Belgorod Oblast
+2024-12-19 00:07,2024-12-19 04:07,Shahed-136,21,16,0,5,Odesa,Krasnodar Krai
+2024-12-21 02:20,2024-12-21 06:20,Shahed-136,22,19,2,1,Vinnytsia,Crimea
+2024-12-21 02:21,2024-12-21 04:21,Kh-101,5,5,0,0,Dnipro,Krasnodar Krai
+2024-12-21 00:47,2024-12-21 03:47,Kh-22,4,4,0,0,Zhytomyr,Black Sea
+2024-12-21 03:34,2024-12-21 04:34,Shahed-131,1,1,0,0,Kyiv,Bryansk Oblast
+2024-12-22 03:29,2024-12-22 07:29,Shahed-238,11,8,1,2,Zhytomyr,Crimea
+2024-12-22 02:39,2024-12-22 05:39,Shahed-136,20,19,1,0,Chernihiv,Bryansk Oblast
+2024-12-24 00:12,2024-12-24 01:12,Kh-101,2,1,1,0,Zhytomyr,Caspian Sea
+2024-12-24 01:54,2024-12-24 02:54,Shahed-136,22,16,2,4,Dnipro,Crimea
+2024-12-25 03:53,2024-12-25 05:53,Shahed-131,18,16,0,2,Kharkiv,Belgorod Oblast
+2024-12-25 03:09,2024-12-25 07:09,Kh-59,2,2,0,0,Lviv,Caspian Sea
+2024-12-26 03:31,2024-12-26 07:31,Shahed-136/Geran-2,16,12,0,4,Kyiv,Crimea
+2024-12-26 01:12,2024-12-26 04:12,Shahed-136,15,12,0,3,Poltava,Bryansk Oblast
+2024-12-27 00:40,2024-12-27 04:40,Kh-555,7,6,0,1,Lviv,Crimea
+2024-12-29 00:31,2024-12-29 04:31,Shahed-136,14,14,0,0,Kherson,Belarus
+2024-12-29 03:14,2024-12-29 04:14,Kalibr,3,3,0,0,Donetsk,Caspian Sea
+2024-12-29 03:36,2024-12-29 06:36,Shahed-136/Geran-2,19,16,1,2,Donetsk,Black Sea
+2024-12-30 03:07,2024-12-30 07:07,Shahed-136,21,18,1,2,Poltava,Voronezh Oblast
+2024-12-30 03:44,2024-12-30 07:44,Shahed-238,18,14,1,3,Kyiv,Krasnodar Krai
+2024-12-30 02:46,2024-12-30 04:46,Tornado-S,4,1,2,1,Kherson,Voronezh Oblast
+2024-12-30 03:14,2024-12-30 05:14,KN-25,1,1,0,0,Poltava,Voronezh Oblast

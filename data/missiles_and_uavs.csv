@@ -1,0 +1,31 @@
+model,type,category,manufacturer_country
+Shahed-136,UAV,Loitering Munition,Iran
+Shahed-131,UAV,Loitering Munition,Iran
+Shahed-238,UAV,Loitering Munition,Iran
+Kh-101,Missile,Cruise Missile,Russia
+Kh-555,Missile,Cruise Missile,Russia
+Kh-22,Missile,Anti-Ship Missile,Russia
+Kh-47M2 Kinzhal,Missile,Ballistic Missile,Russia
+Iskander-M,Missile,Ballistic Missile,Russia
+Kalibr,Missile,Cruise Missile,Russia
+Kh-59,Missile,Cruise Missile,Russia
+Kh-31P,Missile,Anti-Radiation,Russia
+Kh-35,Missile,Anti-Ship Missile,Russia
+S-300,Missile,SAM (repurposed),Russia
+Kh-55,Missile,Cruise Missile,Russia
+Tornado-S,Missile,MLRS,Russia
+Smerch,Missile,MLRS,Russia
+Orlan-10,UAV,Reconnaissance UAV,Russia
+Shahed-136/Geran-2,UAV,Loitering Munition,Iran
+KN-23,Missile,Ballistic Missile,North Korea
+KN-25,Missile,MLRS,North Korea
+Hwasong-11,Missile,Ballistic Missile,North Korea
+Kh-59MK2,Missile,Cruise Missile,Russia
+Kh-69,Missile,Cruise Missile,Russia
+Iskander-K,Missile,Cruise Missile,Russia
+Mohajer-6,UAV,Reconnaissance UAV,Iran
+Shahed-107,UAV,Loitering Munition,Iran
+Lancet-3,UAV,Loitering Munition,Russia
+Zala,UAV,Reconnaissance UAV,Russia
+Forpost-R,UAV,Reconnaissance UAV,Russia
+Supercam S350,UAV,Reconnaissance UAV,Russia
