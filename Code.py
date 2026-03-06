@@ -1,5 +1,5 @@
 # =============================================================================
-# Tarea Semana 3 -- Proyecto End-to-End de Machine Learning (Regresion)
+# Proyecto End-to-End de Machine Learning (Regresion)
 # Dataset: Massive Missile Attacks on Ukraine
 # Dashboard interactivo con filtros laterales
 # =============================================================================
@@ -565,3 +565,4 @@ sostener la intensidad de los ataques a lo largo del tiempo.
                      fontsize=14, fontweight='bold')
     plt.tight_layout()
     st.pyplot(fig_pie)
+
